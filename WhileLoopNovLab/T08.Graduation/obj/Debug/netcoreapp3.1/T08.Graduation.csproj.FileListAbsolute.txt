@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T08.Graduation\bin\Debug\netcoreapp3.1\T08.Graduation.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T08.Graduation\bin\Debug\netcoreapp3.1\T08.Graduation.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T08.Graduation\bin\Debug\netcoreapp3.1\T08.Graduation.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T08.Graduation\bin\Debug\netcoreapp3.1\T08.Graduation.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T08.Graduation\bin\Debug\netcoreapp3.1\T08.Graduation.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T08.Graduation\bin\Debug\netcoreapp3.1\T08.Graduation.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T08.Graduation\obj\Debug\netcoreapp3.1\T08.Graduation.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T08.Graduation\obj\Debug\netcoreapp3.1\T08.Graduation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T08.Graduation\obj\Debug\netcoreapp3.1\T08.Graduation.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T08.Graduation\obj\Debug\netcoreapp3.1\T08.Graduation.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T08.Graduation\obj\Debug\netcoreapp3.1\T08.Graduation.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T08.Graduation\obj\Debug\netcoreapp3.1\T08.Graduation.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T08.Graduation\obj\Debug\netcoreapp3.1\T08.Graduation.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T08.Graduation\obj\Debug\netcoreapp3.1\T08.Graduation.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ClockTestAlarmBreak/1.0.0": {
+        "runtime": {
+          "ClockTestAlarmBreak.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClockTestAlarmBreak/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

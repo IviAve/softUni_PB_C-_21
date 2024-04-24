@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T03.Combinations\bin\Debug\netcoreapp3.1\T03.Combinations.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T03.Combinations\bin\Debug\netcoreapp3.1\T03.Combinations.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T03.Combinations\bin\Debug\netcoreapp3.1\T03.Combinations.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T03.Combinations\bin\Debug\netcoreapp3.1\T03.Combinations.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T03.Combinations\bin\Debug\netcoreapp3.1\T03.Combinations.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T03.Combinations\bin\Debug\netcoreapp3.1\T03.Combinations.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T03.Combinations\obj\Debug\netcoreapp3.1\T03.Combinations.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T03.Combinations\obj\Debug\netcoreapp3.1\T03.Combinations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T03.Combinations\obj\Debug\netcoreapp3.1\T03.Combinations.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T03.Combinations\obj\Debug\netcoreapp3.1\T03.Combinations.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T03.Combinations\obj\Debug\netcoreapp3.1\T03.Combinations.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T03.Combinations\obj\Debug\netcoreapp3.1\T03.Combinations.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T03.Combinations\obj\Debug\netcoreapp3.1\T03.Combinations.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T03.Combinations\obj\Debug\netcoreapp3.1\T03.Combinations.genruntimeconfig.cache

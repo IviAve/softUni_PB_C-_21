@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T06.CinemaTickets\bin\Debug\netcoreapp3.1\T06.CinemaTickets.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T06.CinemaTickets\bin\Debug\netcoreapp3.1\T06.CinemaTickets.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T06.CinemaTickets\bin\Debug\netcoreapp3.1\T06.CinemaTickets.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T06.CinemaTickets\bin\Debug\netcoreapp3.1\T06.CinemaTickets.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T06.CinemaTickets\bin\Debug\netcoreapp3.1\T06.CinemaTickets.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T06.CinemaTickets\bin\Debug\netcoreapp3.1\T06.CinemaTickets.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T06.CinemaTickets\obj\Debug\netcoreapp3.1\T06.CinemaTickets.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T06.CinemaTickets\obj\Debug\netcoreapp3.1\T06.CinemaTickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T06.CinemaTickets\obj\Debug\netcoreapp3.1\T06.CinemaTickets.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T06.CinemaTickets\obj\Debug\netcoreapp3.1\T06.CinemaTickets.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T06.CinemaTickets\obj\Debug\netcoreapp3.1\T06.CinemaTickets.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T06.CinemaTickets\obj\Debug\netcoreapp3.1\T06.CinemaTickets.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T06.CinemaTickets\obj\Debug\netcoreapp3.1\T06.CinemaTickets.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T06.CinemaTickets\obj\Debug\netcoreapp3.1\T06.CinemaTickets.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T02 ExamPreparation\bin\Debug\netcoreapp3.1\T02 ExamPreparation.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T02 ExamPreparation\bin\Debug\netcoreapp3.1\T02 ExamPreparation.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T02 ExamPreparation\bin\Debug\netcoreapp3.1\T02 ExamPreparation.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T02 ExamPreparation\bin\Debug\netcoreapp3.1\T02 ExamPreparation.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T02 ExamPreparation\bin\Debug\netcoreapp3.1\T02 ExamPreparation.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T02 ExamPreparation\bin\Debug\netcoreapp3.1\T02 ExamPreparation.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T02 ExamPreparation\obj\Debug\netcoreapp3.1\T02 ExamPreparation.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T02 ExamPreparation\obj\Debug\netcoreapp3.1\T02 ExamPreparation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T02 ExamPreparation\obj\Debug\netcoreapp3.1\T02 ExamPreparation.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T02 ExamPreparation\obj\Debug\netcoreapp3.1\T02 ExamPreparation.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T02 ExamPreparation\obj\Debug\netcoreapp3.1\T02 ExamPreparation.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T02 ExamPreparation\obj\Debug\netcoreapp3.1\T02 ExamPreparation.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T02 ExamPreparation\obj\Debug\netcoreapp3.1\T02 ExamPreparation.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T02 ExamPreparation\obj\Debug\netcoreapp3.1\T02 ExamPreparation.genruntimeconfig.cache

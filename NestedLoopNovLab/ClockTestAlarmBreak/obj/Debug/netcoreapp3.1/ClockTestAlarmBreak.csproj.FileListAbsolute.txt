@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\ClockTestAlarmBreak\bin\Debug\netcoreapp3.1\ClockTestAlarmBreak.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\ClockTestAlarmBreak\bin\Debug\netcoreapp3.1\ClockTestAlarmBreak.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\ClockTestAlarmBreak\bin\Debug\netcoreapp3.1\ClockTestAlarmBreak.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\ClockTestAlarmBreak\bin\Debug\netcoreapp3.1\ClockTestAlarmBreak.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\ClockTestAlarmBreak\bin\Debug\netcoreapp3.1\ClockTestAlarmBreak.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\ClockTestAlarmBreak\bin\Debug\netcoreapp3.1\ClockTestAlarmBreak.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\ClockTestAlarmBreak\obj\Debug\netcoreapp3.1\ClockTestAlarmBreak.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\ClockTestAlarmBreak\obj\Debug\netcoreapp3.1\ClockTestAlarmBreak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\ClockTestAlarmBreak\obj\Debug\netcoreapp3.1\ClockTestAlarmBreak.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\ClockTestAlarmBreak\obj\Debug\netcoreapp3.1\ClockTestAlarmBreak.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\ClockTestAlarmBreak\obj\Debug\netcoreapp3.1\ClockTestAlarmBreak.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\ClockTestAlarmBreak\obj\Debug\netcoreapp3.1\ClockTestAlarmBreak.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\ClockTestAlarmBreak\obj\Debug\netcoreapp3.1\ClockTestAlarmBreak.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\ClockTestAlarmBreak\obj\Debug\netcoreapp3.1\ClockTestAlarmBreak.genruntimeconfig.cache

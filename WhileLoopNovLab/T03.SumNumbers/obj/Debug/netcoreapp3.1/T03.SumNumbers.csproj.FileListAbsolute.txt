@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T03.SumNumbers\bin\Debug\netcoreapp3.1\T03.SumNumbers.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T03.SumNumbers\bin\Debug\netcoreapp3.1\T03.SumNumbers.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T03.SumNumbers\bin\Debug\netcoreapp3.1\T03.SumNumbers.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T03.SumNumbers\bin\Debug\netcoreapp3.1\T03.SumNumbers.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T03.SumNumbers\bin\Debug\netcoreapp3.1\T03.SumNumbers.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T03.SumNumbers\bin\Debug\netcoreapp3.1\T03.SumNumbers.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T03.SumNumbers\obj\Debug\netcoreapp3.1\T03.SumNumbers.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T03.SumNumbers\obj\Debug\netcoreapp3.1\T03.SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T03.SumNumbers\obj\Debug\netcoreapp3.1\T03.SumNumbers.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T03.SumNumbers\obj\Debug\netcoreapp3.1\T03.SumNumbers.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T03.SumNumbers\obj\Debug\netcoreapp3.1\T03.SumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T03.SumNumbers\obj\Debug\netcoreapp3.1\T03.SumNumbers.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T03.SumNumbers\obj\Debug\netcoreapp3.1\T03.SumNumbers.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T03.SumNumbers\obj\Debug\netcoreapp3.1\T03.SumNumbers.genruntimeconfig.cache

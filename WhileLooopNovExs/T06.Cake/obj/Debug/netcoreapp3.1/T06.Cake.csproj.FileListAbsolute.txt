@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T06.Cake\bin\Debug\netcoreapp3.1\T06.Cake.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T06.Cake\bin\Debug\netcoreapp3.1\T06.Cake.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T06.Cake\bin\Debug\netcoreapp3.1\T06.Cake.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T06.Cake\bin\Debug\netcoreapp3.1\T06.Cake.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T06.Cake\bin\Debug\netcoreapp3.1\T06.Cake.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T06.Cake\bin\Debug\netcoreapp3.1\T06.Cake.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T06.Cake\obj\Debug\netcoreapp3.1\T06.Cake.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T06.Cake\obj\Debug\netcoreapp3.1\T06.Cake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T06.Cake\obj\Debug\netcoreapp3.1\T06.Cake.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T06.Cake\obj\Debug\netcoreapp3.1\T06.Cake.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T06.Cake\obj\Debug\netcoreapp3.1\T06.Cake.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T06.Cake\obj\Debug\netcoreapp3.1\T06.Cake.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T06.Cake\obj\Debug\netcoreapp3.1\T06.Cake.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T06.Cake\obj\Debug\netcoreapp3.1\T06.Cake.genruntimeconfig.cache

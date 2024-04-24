@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T01.NumberPyramid\bin\Debug\netcoreapp3.1\T01.NumberPyramid.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T01.NumberPyramid\bin\Debug\netcoreapp3.1\T01.NumberPyramid.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T01.NumberPyramid\bin\Debug\netcoreapp3.1\T01.NumberPyramid.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T01.NumberPyramid\bin\Debug\netcoreapp3.1\T01.NumberPyramid.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T01.NumberPyramid\bin\Debug\netcoreapp3.1\T01.NumberPyramid.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T01.NumberPyramid\bin\Debug\netcoreapp3.1\T01.NumberPyramid.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T01.NumberPyramid\obj\Debug\netcoreapp3.1\T01.NumberPyramid.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T01.NumberPyramid\obj\Debug\netcoreapp3.1\T01.NumberPyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T01.NumberPyramid\obj\Debug\netcoreapp3.1\T01.NumberPyramid.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T01.NumberPyramid\obj\Debug\netcoreapp3.1\T01.NumberPyramid.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T01.NumberPyramid\obj\Debug\netcoreapp3.1\T01.NumberPyramid.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T01.NumberPyramid\obj\Debug\netcoreapp3.1\T01.NumberPyramid.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T01.NumberPyramid\obj\Debug\netcoreapp3.1\T01.NumberPyramid.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T01.NumberPyramid\obj\Debug\netcoreapp3.1\T01.NumberPyramid.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T05.Travelling\bin\Debug\netcoreapp3.1\T05.Travelling.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T05.Travelling\bin\Debug\netcoreapp3.1\T05.Travelling.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T05.Travelling\bin\Debug\netcoreapp3.1\T05.Travelling.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T05.Travelling\bin\Debug\netcoreapp3.1\T05.Travelling.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T05.Travelling\bin\Debug\netcoreapp3.1\T05.Travelling.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T05.Travelling\bin\Debug\netcoreapp3.1\T05.Travelling.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T05.Travelling\obj\Debug\netcoreapp3.1\T05.Travelling.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T05.Travelling\obj\Debug\netcoreapp3.1\T05.Travelling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T05.Travelling\obj\Debug\netcoreapp3.1\T05.Travelling.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T05.Travelling\obj\Debug\netcoreapp3.1\T05.Travelling.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T05.Travelling\obj\Debug\netcoreapp3.1\T05.Travelling.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T05.Travelling\obj\Debug\netcoreapp3.1\T05.Travelling.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T05.Travelling\obj\Debug\netcoreapp3.1\T05.Travelling.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T05.Travelling\obj\Debug\netcoreapp3.1\T05.Travelling.genruntimeconfig.cache

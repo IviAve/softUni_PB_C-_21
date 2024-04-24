@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T04.SumOffTwoNumbers\bin\Debug\netcoreapp3.1\T04.SumOffTwoNumbers.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T04.SumOffTwoNumbers\bin\Debug\netcoreapp3.1\T04.SumOffTwoNumbers.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T04.SumOffTwoNumbers\bin\Debug\netcoreapp3.1\T04.SumOffTwoNumbers.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T04.SumOffTwoNumbers\bin\Debug\netcoreapp3.1\T04.SumOffTwoNumbers.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T04.SumOffTwoNumbers\bin\Debug\netcoreapp3.1\T04.SumOffTwoNumbers.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T04.SumOffTwoNumbers\bin\Debug\netcoreapp3.1\T04.SumOffTwoNumbers.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T04.SumOffTwoNumbers\obj\Debug\netcoreapp3.1\T04.SumOffTwoNumbers.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T04.SumOffTwoNumbers\obj\Debug\netcoreapp3.1\T04.SumOffTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T04.SumOffTwoNumbers\obj\Debug\netcoreapp3.1\T04.SumOffTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T04.SumOffTwoNumbers\obj\Debug\netcoreapp3.1\T04.SumOffTwoNumbers.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T04.SumOffTwoNumbers\obj\Debug\netcoreapp3.1\T04.SumOffTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T04.SumOffTwoNumbers\obj\Debug\netcoreapp3.1\T04.SumOffTwoNumbers.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T04.SumOffTwoNumbers\obj\Debug\netcoreapp3.1\T04.SumOffTwoNumbers.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T04.SumOffTwoNumbers\obj\Debug\netcoreapp3.1\T04.SumOffTwoNumbers.genruntimeconfig.cache

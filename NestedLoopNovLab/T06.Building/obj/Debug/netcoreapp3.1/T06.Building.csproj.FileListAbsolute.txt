@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T06.Building\bin\Debug\netcoreapp3.1\T06.Building.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T06.Building\bin\Debug\netcoreapp3.1\T06.Building.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T06.Building\bin\Debug\netcoreapp3.1\T06.Building.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T06.Building\bin\Debug\netcoreapp3.1\T06.Building.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T06.Building\bin\Debug\netcoreapp3.1\T06.Building.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T06.Building\bin\Debug\netcoreapp3.1\T06.Building.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T06.Building\obj\Debug\netcoreapp3.1\T06.Building.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T06.Building\obj\Debug\netcoreapp3.1\T06.Building.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T06.Building\obj\Debug\netcoreapp3.1\T06.Building.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T06.Building\obj\Debug\netcoreapp3.1\T06.Building.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T06.Building\obj\Debug\netcoreapp3.1\T06.Building.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T06.Building\obj\Debug\netcoreapp3.1\T06.Building.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T06.Building\obj\Debug\netcoreapp3.1\T06.Building.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T06.Building\obj\Debug\netcoreapp3.1\T06.Building.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T01.OldBooks\bin\Debug\netcoreapp3.1\T01.OldBooks.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T01.OldBooks\bin\Debug\netcoreapp3.1\T01.OldBooks.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T01.OldBooks\bin\Debug\netcoreapp3.1\T01.OldBooks.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T01.OldBooks\bin\Debug\netcoreapp3.1\T01.OldBooks.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T01.OldBooks\bin\Debug\netcoreapp3.1\T01.OldBooks.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T01.OldBooks\bin\Debug\netcoreapp3.1\T01.OldBooks.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T01.OldBooks\obj\Debug\netcoreapp3.1\T01.OldBooks.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T01.OldBooks\obj\Debug\netcoreapp3.1\T01.OldBooks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T01.OldBooks\obj\Debug\netcoreapp3.1\T01.OldBooks.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T01.OldBooks\obj\Debug\netcoreapp3.1\T01.OldBooks.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T01.OldBooks\obj\Debug\netcoreapp3.1\T01.OldBooks.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T01.OldBooks\obj\Debug\netcoreapp3.1\T01.OldBooks.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T01.OldBooks\obj\Debug\netcoreapp3.1\T01.OldBooks.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T01.OldBooks\obj\Debug\netcoreapp3.1\T01.OldBooks.genruntimeconfig.cache

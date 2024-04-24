@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T02.EqualSumsEvenOddPosition\bin\Debug\netcoreapp3.1\T02.EqualSumsEvenOddPosition.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T02.EqualSumsEvenOddPosition\bin\Debug\netcoreapp3.1\T02.EqualSumsEvenOddPosition.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T02.EqualSumsEvenOddPosition\bin\Debug\netcoreapp3.1\T02.EqualSumsEvenOddPosition.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T02.EqualSumsEvenOddPosition\bin\Debug\netcoreapp3.1\T02.EqualSumsEvenOddPosition.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T02.EqualSumsEvenOddPosition\bin\Debug\netcoreapp3.1\T02.EqualSumsEvenOddPosition.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T02.EqualSumsEvenOddPosition\bin\Debug\netcoreapp3.1\T02.EqualSumsEvenOddPosition.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T02.EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\T02.EqualSumsEvenOddPosition.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T02.EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\T02.EqualSumsEvenOddPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T02.EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\T02.EqualSumsEvenOddPosition.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T02.EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\T02.EqualSumsEvenOddPosition.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T02.EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\T02.EqualSumsEvenOddPosition.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T02.EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\T02.EqualSumsEvenOddPosition.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T02.EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\T02.EqualSumsEvenOddPosition.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T02.EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\T02.EqualSumsEvenOddPosition.genruntimeconfig.cache

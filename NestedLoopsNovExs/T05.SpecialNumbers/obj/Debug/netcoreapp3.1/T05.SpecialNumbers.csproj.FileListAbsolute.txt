@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T05.SpecialNumbers\bin\Debug\netcoreapp3.1\T05.SpecialNumbers.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T05.SpecialNumbers\bin\Debug\netcoreapp3.1\T05.SpecialNumbers.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T05.SpecialNumbers\bin\Debug\netcoreapp3.1\T05.SpecialNumbers.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T05.SpecialNumbers\bin\Debug\netcoreapp3.1\T05.SpecialNumbers.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T05.SpecialNumbers\bin\Debug\netcoreapp3.1\T05.SpecialNumbers.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T05.SpecialNumbers\bin\Debug\netcoreapp3.1\T05.SpecialNumbers.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T05.SpecialNumbers\obj\Debug\netcoreapp3.1\T05.SpecialNumbers.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T05.SpecialNumbers\obj\Debug\netcoreapp3.1\T05.SpecialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T05.SpecialNumbers\obj\Debug\netcoreapp3.1\T05.SpecialNumbers.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T05.SpecialNumbers\obj\Debug\netcoreapp3.1\T05.SpecialNumbers.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T05.SpecialNumbers\obj\Debug\netcoreapp3.1\T05.SpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T05.SpecialNumbers\obj\Debug\netcoreapp3.1\T05.SpecialNumbers.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T05.SpecialNumbers\obj\Debug\netcoreapp3.1\T05.SpecialNumbers.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T05.SpecialNumbers\obj\Debug\netcoreapp3.1\T05.SpecialNumbers.genruntimeconfig.cache

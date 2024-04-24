@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T04.Sequence2kAnd1\bin\Debug\netcoreapp3.1\T04.Sequence2kAnd1.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T04.Sequence2kAnd1\bin\Debug\netcoreapp3.1\T04.Sequence2kAnd1.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T04.Sequence2kAnd1\bin\Debug\netcoreapp3.1\T04.Sequence2kAnd1.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T04.Sequence2kAnd1\bin\Debug\netcoreapp3.1\T04.Sequence2kAnd1.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T04.Sequence2kAnd1\bin\Debug\netcoreapp3.1\T04.Sequence2kAnd1.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T04.Sequence2kAnd1\bin\Debug\netcoreapp3.1\T04.Sequence2kAnd1.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T04.Sequence2kAnd1\obj\Debug\netcoreapp3.1\T04.Sequence2kAnd1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T04.Sequence2kAnd1\obj\Debug\netcoreapp3.1\T04.Sequence2kAnd1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T04.Sequence2kAnd1\obj\Debug\netcoreapp3.1\T04.Sequence2kAnd1.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T04.Sequence2kAnd1\obj\Debug\netcoreapp3.1\T04.Sequence2kAnd1.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T04.Sequence2kAnd1\obj\Debug\netcoreapp3.1\T04.Sequence2kAnd1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T04.Sequence2kAnd1\obj\Debug\netcoreapp3.1\T04.Sequence2kAnd1.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T04.Sequence2kAnd1\obj\Debug\netcoreapp3.1\T04.Sequence2kAnd1.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T04.Sequence2kAnd1\obj\Debug\netcoreapp3.1\T04.Sequence2kAnd1.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T07.Moving\bin\Debug\netcoreapp3.1\T07.Moving.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T07.Moving\bin\Debug\netcoreapp3.1\T07.Moving.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T07.Moving\bin\Debug\netcoreapp3.1\T07.Moving.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T07.Moving\bin\Debug\netcoreapp3.1\T07.Moving.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T07.Moving\bin\Debug\netcoreapp3.1\T07.Moving.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T07.Moving\bin\Debug\netcoreapp3.1\T07.Moving.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T07.Moving\obj\Debug\netcoreapp3.1\T07.Moving.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T07.Moving\obj\Debug\netcoreapp3.1\T07.Moving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T07.Moving\obj\Debug\netcoreapp3.1\T07.Moving.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T07.Moving\obj\Debug\netcoreapp3.1\T07.Moving.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T07.Moving\obj\Debug\netcoreapp3.1\T07.Moving.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T07.Moving\obj\Debug\netcoreapp3.1\T07.Moving.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T07.Moving\obj\Debug\netcoreapp3.1\T07.Moving.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\WhileLooopNovExs\T07.Moving\obj\Debug\netcoreapp3.1\T07.Moving.genruntimeconfig.cache

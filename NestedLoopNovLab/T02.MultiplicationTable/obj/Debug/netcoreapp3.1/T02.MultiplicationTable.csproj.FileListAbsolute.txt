@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T02.MultiplicationTable\bin\Debug\netcoreapp3.1\T02.MultiplicationTable.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T02.MultiplicationTable\bin\Debug\netcoreapp3.1\T02.MultiplicationTable.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T02.MultiplicationTable\bin\Debug\netcoreapp3.1\T02.MultiplicationTable.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T02.MultiplicationTable\bin\Debug\netcoreapp3.1\T02.MultiplicationTable.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T02.MultiplicationTable\bin\Debug\netcoreapp3.1\T02.MultiplicationTable.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T02.MultiplicationTable\bin\Debug\netcoreapp3.1\T02.MultiplicationTable.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T02.MultiplicationTable\obj\Debug\netcoreapp3.1\T02.MultiplicationTable.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T02.MultiplicationTable\obj\Debug\netcoreapp3.1\T02.MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T02.MultiplicationTable\obj\Debug\netcoreapp3.1\T02.MultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T02.MultiplicationTable\obj\Debug\netcoreapp3.1\T02.MultiplicationTable.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T02.MultiplicationTable\obj\Debug\netcoreapp3.1\T02.MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T02.MultiplicationTable\obj\Debug\netcoreapp3.1\T02.MultiplicationTable.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T02.MultiplicationTable\obj\Debug\netcoreapp3.1\T02.MultiplicationTable.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\NestedLoopNovLab\T02.MultiplicationTable\obj\Debug\netcoreapp3.1\T02.MultiplicationTable.genruntimeconfig.cache

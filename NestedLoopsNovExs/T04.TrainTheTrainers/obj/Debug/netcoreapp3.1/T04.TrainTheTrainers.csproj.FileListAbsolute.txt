@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T04.TrainTheTrainers\bin\Debug\netcoreapp3.1\T04.TrainTheTrainers.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T04.TrainTheTrainers\bin\Debug\netcoreapp3.1\T04.TrainTheTrainers.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T04.TrainTheTrainers\bin\Debug\netcoreapp3.1\T04.TrainTheTrainers.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T04.TrainTheTrainers\bin\Debug\netcoreapp3.1\T04.TrainTheTrainers.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T04.TrainTheTrainers\bin\Debug\netcoreapp3.1\T04.TrainTheTrainers.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T04.TrainTheTrainers\bin\Debug\netcoreapp3.1\T04.TrainTheTrainers.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T04.TrainTheTrainers\obj\Debug\netcoreapp3.1\T04.TrainTheTrainers.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T04.TrainTheTrainers\obj\Debug\netcoreapp3.1\T04.TrainTheTrainers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T04.TrainTheTrainers\obj\Debug\netcoreapp3.1\T04.TrainTheTrainers.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T04.TrainTheTrainers\obj\Debug\netcoreapp3.1\T04.TrainTheTrainers.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T04.TrainTheTrainers\obj\Debug\netcoreapp3.1\T04.TrainTheTrainers.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T04.TrainTheTrainers\obj\Debug\netcoreapp3.1\T04.TrainTheTrainers.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T04.TrainTheTrainers\obj\Debug\netcoreapp3.1\T04.TrainTheTrainers.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\NestedLoopsNovExs\T04.TrainTheTrainers\obj\Debug\netcoreapp3.1\T04.TrainTheTrainers.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T01.ReadText\obj\Debug\netcoreapp3.1\T01.ReadText.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T01.ReadText\obj\Debug\netcoreapp3.1\T01.ReadText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T01.ReadText\obj\Debug\netcoreapp3.1\T01.ReadText.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T01.ReadText\obj\Debug\netcoreapp3.1\T01.ReadText.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T01.ReadText\obj\Debug\netcoreapp3.1\T01.ReadText.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T01.ReadText\bin\Debug\netcoreapp3.1\T01.ReadText.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T01.ReadText\bin\Debug\netcoreapp3.1\T01.ReadText.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T01.ReadText\bin\Debug\netcoreapp3.1\T01.ReadText.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T01.ReadText\bin\Debug\netcoreapp3.1\T01.ReadText.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T01.ReadText\bin\Debug\netcoreapp3.1\T01.ReadText.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T01.ReadText\bin\Debug\netcoreapp3.1\T01.ReadText.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T01.ReadText\obj\Debug\netcoreapp3.1\T01.ReadText.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T01.ReadText\obj\Debug\netcoreapp3.1\T01.ReadText.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\WhileLoopNovLab\T01.ReadText\obj\Debug\netcoreapp3.1\T01.ReadText.genruntimeconfig.cache
