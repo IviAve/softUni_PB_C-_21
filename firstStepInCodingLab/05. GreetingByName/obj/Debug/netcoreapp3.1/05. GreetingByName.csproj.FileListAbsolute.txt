@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\05. GreetingByName\bin\Debug\netcoreapp3.1\05. GreetingByName.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\05. GreetingByName\bin\Debug\netcoreapp3.1\05. GreetingByName.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\05. GreetingByName\bin\Debug\netcoreapp3.1\05. GreetingByName.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\05. GreetingByName\bin\Debug\netcoreapp3.1\05. GreetingByName.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\05. GreetingByName\bin\Debug\netcoreapp3.1\05. GreetingByName.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\05. GreetingByName\bin\Debug\netcoreapp3.1\05. GreetingByName.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\05. GreetingByName\obj\Debug\netcoreapp3.1\05. GreetingByName.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\05. GreetingByName\obj\Debug\netcoreapp3.1\05. GreetingByName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\05. GreetingByName\obj\Debug\netcoreapp3.1\05. GreetingByName.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\05. GreetingByName\obj\Debug\netcoreapp3.1\05. GreetingByName.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\05. GreetingByName\obj\Debug\netcoreapp3.1\05. GreetingByName.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\05. GreetingByName\obj\Debug\netcoreapp3.1\05. GreetingByName.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\05. GreetingByName\obj\Debug\netcoreapp3.1\05. GreetingByName.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\05. GreetingByName\obj\Debug\netcoreapp3.1\05. GreetingByName.genruntimeconfig.cache

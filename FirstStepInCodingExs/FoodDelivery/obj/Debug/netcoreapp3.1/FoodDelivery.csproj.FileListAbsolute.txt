@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\FoodDelivery\bin\Debug\netcoreapp3.1\FoodDelivery.exe
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\FoodDelivery\bin\Debug\netcoreapp3.1\FoodDelivery.deps.json
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\FoodDelivery\bin\Debug\netcoreapp3.1\FoodDelivery.runtimeconfig.json
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\FoodDelivery\bin\Debug\netcoreapp3.1\FoodDelivery.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\FoodDelivery\bin\Debug\netcoreapp3.1\FoodDelivery.dll
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\FoodDelivery\bin\Debug\netcoreapp3.1\FoodDelivery.pdb
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\FoodDelivery\obj\Debug\netcoreapp3.1\FoodDelivery.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\FoodDelivery\obj\Debug\netcoreapp3.1\FoodDelivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\FoodDelivery\obj\Debug\netcoreapp3.1\FoodDelivery.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\FoodDelivery\obj\Debug\netcoreapp3.1\FoodDelivery.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\FoodDelivery\obj\Debug\netcoreapp3.1\FoodDelivery.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\FoodDelivery\obj\Debug\netcoreapp3.1\FoodDelivery.dll
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\FoodDelivery\obj\Debug\netcoreapp3.1\FoodDelivery.pdb
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\FoodDelivery\obj\Debug\netcoreapp3.1\FoodDelivery.genruntimeconfig.cache

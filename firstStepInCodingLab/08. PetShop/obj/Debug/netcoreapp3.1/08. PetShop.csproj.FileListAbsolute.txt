@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\08. PetShop\bin\Debug\netcoreapp3.1\08. PetShop.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\08. PetShop\bin\Debug\netcoreapp3.1\08. PetShop.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\08. PetShop\bin\Debug\netcoreapp3.1\08. PetShop.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\08. PetShop\bin\Debug\netcoreapp3.1\08. PetShop.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\08. PetShop\bin\Debug\netcoreapp3.1\08. PetShop.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\08. PetShop\bin\Debug\netcoreapp3.1\08. PetShop.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\08. PetShop\obj\Debug\netcoreapp3.1\08. PetShop.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\08. PetShop\obj\Debug\netcoreapp3.1\08. PetShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\08. PetShop\obj\Debug\netcoreapp3.1\08. PetShop.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\08. PetShop\obj\Debug\netcoreapp3.1\08. PetShop.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\08. PetShop\obj\Debug\netcoreapp3.1\08. PetShop.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\08. PetShop\obj\Debug\netcoreapp3.1\08. PetShop.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\08. PetShop\obj\Debug\netcoreapp3.1\08. PetShop.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\08. PetShop\obj\Debug\netcoreapp3.1\08. PetShop.genruntimeconfig.cache

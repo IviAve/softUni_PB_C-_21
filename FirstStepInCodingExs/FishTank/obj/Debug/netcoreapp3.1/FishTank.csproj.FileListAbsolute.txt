@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\FishTank\bin\Debug\netcoreapp3.1\FishTank.exe
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\FishTank\bin\Debug\netcoreapp3.1\FishTank.deps.json
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\FishTank\bin\Debug\netcoreapp3.1\FishTank.runtimeconfig.json
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\FishTank\bin\Debug\netcoreapp3.1\FishTank.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\FishTank\bin\Debug\netcoreapp3.1\FishTank.dll
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\FishTank\bin\Debug\netcoreapp3.1\FishTank.pdb
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\FishTank\obj\Debug\netcoreapp3.1\FishTank.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\FishTank\obj\Debug\netcoreapp3.1\FishTank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\FishTank\obj\Debug\netcoreapp3.1\FishTank.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\FishTank\obj\Debug\netcoreapp3.1\FishTank.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\FishTank\obj\Debug\netcoreapp3.1\FishTank.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\FishTank\obj\Debug\netcoreapp3.1\FishTank.dll
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\FishTank\obj\Debug\netcoreapp3.1\FishTank.pdb
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\FishTank\obj\Debug\netcoreapp3.1\FishTank.genruntimeconfig.cache

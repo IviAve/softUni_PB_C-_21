@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\DepositCalcolator\bin\Debug\netcoreapp3.1\DepositCalcolator.exe
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\DepositCalcolator\bin\Debug\netcoreapp3.1\DepositCalcolator.deps.json
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\DepositCalcolator\bin\Debug\netcoreapp3.1\DepositCalcolator.runtimeconfig.json
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\DepositCalcolator\bin\Debug\netcoreapp3.1\DepositCalcolator.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\DepositCalcolator\bin\Debug\netcoreapp3.1\DepositCalcolator.dll
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\DepositCalcolator\bin\Debug\netcoreapp3.1\DepositCalcolator.pdb
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\DepositCalcolator\obj\Debug\netcoreapp3.1\DepositCalcolator.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\DepositCalcolator\obj\Debug\netcoreapp3.1\DepositCalcolator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\DepositCalcolator\obj\Debug\netcoreapp3.1\DepositCalcolator.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\DepositCalcolator\obj\Debug\netcoreapp3.1\DepositCalcolator.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\DepositCalcolator\obj\Debug\netcoreapp3.1\DepositCalcolator.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\DepositCalcolator\obj\Debug\netcoreapp3.1\DepositCalcolator.dll
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\DepositCalcolator\obj\Debug\netcoreapp3.1\DepositCalcolator.pdb
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\DepositCalcolator\obj\Debug\netcoreapp3.1\DepositCalcolator.genruntimeconfig.cache

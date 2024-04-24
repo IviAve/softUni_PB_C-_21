@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\UsdToBgnExs\bin\Debug\netcoreapp3.1\UsdToBgnExs.exe
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\UsdToBgnExs\bin\Debug\netcoreapp3.1\UsdToBgnExs.deps.json
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\UsdToBgnExs\bin\Debug\netcoreapp3.1\UsdToBgnExs.runtimeconfig.json
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\UsdToBgnExs\bin\Debug\netcoreapp3.1\UsdToBgnExs.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\UsdToBgnExs\bin\Debug\netcoreapp3.1\UsdToBgnExs.dll
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\UsdToBgnExs\bin\Debug\netcoreapp3.1\UsdToBgnExs.pdb
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\UsdToBgnExs\obj\Debug\netcoreapp3.1\UsdToBgnExs.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\UsdToBgnExs\obj\Debug\netcoreapp3.1\UsdToBgnExs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\UsdToBgnExs\obj\Debug\netcoreapp3.1\UsdToBgnExs.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\UsdToBgnExs\obj\Debug\netcoreapp3.1\UsdToBgnExs.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\UsdToBgnExs\obj\Debug\netcoreapp3.1\UsdToBgnExs.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\UsdToBgnExs\obj\Debug\netcoreapp3.1\UsdToBgnExs.dll
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\UsdToBgnExs\obj\Debug\netcoreapp3.1\UsdToBgnExs.pdb
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\UsdToBgnExs\obj\Debug\netcoreapp3.1\UsdToBgnExs.genruntimeconfig.cache

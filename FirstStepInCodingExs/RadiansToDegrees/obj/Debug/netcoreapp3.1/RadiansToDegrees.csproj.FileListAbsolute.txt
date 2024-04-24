@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\RadiansToDegrees\bin\Debug\netcoreapp3.1\RadiansToDegrees.exe
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\RadiansToDegrees\bin\Debug\netcoreapp3.1\RadiansToDegrees.deps.json
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\RadiansToDegrees\bin\Debug\netcoreapp3.1\RadiansToDegrees.runtimeconfig.json
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\RadiansToDegrees\bin\Debug\netcoreapp3.1\RadiansToDegrees.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\RadiansToDegrees\bin\Debug\netcoreapp3.1\RadiansToDegrees.dll
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\RadiansToDegrees\bin\Debug\netcoreapp3.1\RadiansToDegrees.pdb
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\RadiansToDegrees\obj\Debug\netcoreapp3.1\RadiansToDegrees.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\RadiansToDegrees\obj\Debug\netcoreapp3.1\RadiansToDegrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\RadiansToDegrees\obj\Debug\netcoreapp3.1\RadiansToDegrees.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\RadiansToDegrees\obj\Debug\netcoreapp3.1\RadiansToDegrees.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\RadiansToDegrees\obj\Debug\netcoreapp3.1\RadiansToDegrees.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\RadiansToDegrees\obj\Debug\netcoreapp3.1\RadiansToDegrees.dll
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\RadiansToDegrees\obj\Debug\netcoreapp3.1\RadiansToDegrees.pdb
+C:\Users\Lenovo\source\repos\softuni10,21\FirstStepInLab\RadiansToDegrees\obj\Debug\netcoreapp3.1\RadiansToDegrees.genruntimeconfig.cache

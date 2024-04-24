@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\06. ConcatenateData\bin\Debug\netcoreapp3.1\06. ConcatenateData.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\06. ConcatenateData\bin\Debug\netcoreapp3.1\06. ConcatenateData.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\06. ConcatenateData\bin\Debug\netcoreapp3.1\06. ConcatenateData.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\06. ConcatenateData\bin\Debug\netcoreapp3.1\06. ConcatenateData.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\06. ConcatenateData\bin\Debug\netcoreapp3.1\06. ConcatenateData.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\06. ConcatenateData\bin\Debug\netcoreapp3.1\06. ConcatenateData.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\06. ConcatenateData\obj\Debug\netcoreapp3.1\06. ConcatenateData.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\06. ConcatenateData\obj\Debug\netcoreapp3.1\06. ConcatenateData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\06. ConcatenateData\obj\Debug\netcoreapp3.1\06. ConcatenateData.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\06. ConcatenateData\obj\Debug\netcoreapp3.1\06. ConcatenateData.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\06. ConcatenateData\obj\Debug\netcoreapp3.1\06. ConcatenateData.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\06. ConcatenateData\obj\Debug\netcoreapp3.1\06. ConcatenateData.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\06. ConcatenateData\obj\Debug\netcoreapp3.1\06. ConcatenateData.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\06. ConcatenateData\obj\Debug\netcoreapp3.1\06. ConcatenateData.genruntimeconfig.cache

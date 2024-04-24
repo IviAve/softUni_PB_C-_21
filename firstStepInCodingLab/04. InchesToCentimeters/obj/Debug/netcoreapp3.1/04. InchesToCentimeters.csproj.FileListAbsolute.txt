@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\04. InchesToCentimeters\bin\Debug\netcoreapp3.1\04. InchesToCentimeters.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\04. InchesToCentimeters\bin\Debug\netcoreapp3.1\04. InchesToCentimeters.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\04. InchesToCentimeters\bin\Debug\netcoreapp3.1\04. InchesToCentimeters.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\04. InchesToCentimeters\bin\Debug\netcoreapp3.1\04. InchesToCentimeters.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\04. InchesToCentimeters\bin\Debug\netcoreapp3.1\04. InchesToCentimeters.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\04. InchesToCentimeters\bin\Debug\netcoreapp3.1\04. InchesToCentimeters.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\04. InchesToCentimeters\obj\Debug\netcoreapp3.1\04. InchesToCentimeters.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\04. InchesToCentimeters\obj\Debug\netcoreapp3.1\04. InchesToCentimeters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\04. InchesToCentimeters\obj\Debug\netcoreapp3.1\04. InchesToCentimeters.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\04. InchesToCentimeters\obj\Debug\netcoreapp3.1\04. InchesToCentimeters.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\04. InchesToCentimeters\obj\Debug\netcoreapp3.1\04. InchesToCentimeters.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\04. InchesToCentimeters\obj\Debug\netcoreapp3.1\04. InchesToCentimeters.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\04. InchesToCentimeters\obj\Debug\netcoreapp3.1\04. InchesToCentimeters.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\04. InchesToCentimeters\obj\Debug\netcoreapp3.1\04. InchesToCentimeters.genruntimeconfig.cache

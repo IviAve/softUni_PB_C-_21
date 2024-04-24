@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\09. YardGreening\bin\Debug\netcoreapp3.1\09. YardGreening.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\09. YardGreening\bin\Debug\netcoreapp3.1\09. YardGreening.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\09. YardGreening\bin\Debug\netcoreapp3.1\09. YardGreening.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\09. YardGreening\bin\Debug\netcoreapp3.1\09. YardGreening.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\09. YardGreening\bin\Debug\netcoreapp3.1\09. YardGreening.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\09. YardGreening\bin\Debug\netcoreapp3.1\09. YardGreening.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\09. YardGreening\obj\Debug\netcoreapp3.1\09. YardGreening.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\09. YardGreening\obj\Debug\netcoreapp3.1\09. YardGreening.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\09. YardGreening\obj\Debug\netcoreapp3.1\09. YardGreening.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\09. YardGreening\obj\Debug\netcoreapp3.1\09. YardGreening.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\09. YardGreening\obj\Debug\netcoreapp3.1\09. YardGreening.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\09. YardGreening\obj\Debug\netcoreapp3.1\09. YardGreening.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\09. YardGreening\obj\Debug\netcoreapp3.1\09. YardGreening.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\09. YardGreening\obj\Debug\netcoreapp3.1\09. YardGreening.genruntimeconfig.cache

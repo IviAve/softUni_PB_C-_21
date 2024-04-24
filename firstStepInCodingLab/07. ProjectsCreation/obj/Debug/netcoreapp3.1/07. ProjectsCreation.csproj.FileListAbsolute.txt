@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\07. ProjectsCreation\bin\Debug\netcoreapp3.1\07. ProjectsCreation.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\07. ProjectsCreation\bin\Debug\netcoreapp3.1\07. ProjectsCreation.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\07. ProjectsCreation\bin\Debug\netcoreapp3.1\07. ProjectsCreation.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\07. ProjectsCreation\bin\Debug\netcoreapp3.1\07. ProjectsCreation.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\07. ProjectsCreation\bin\Debug\netcoreapp3.1\07. ProjectsCreation.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\07. ProjectsCreation\bin\Debug\netcoreapp3.1\07. ProjectsCreation.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\07. ProjectsCreation\obj\Debug\netcoreapp3.1\07. ProjectsCreation.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\07. ProjectsCreation\obj\Debug\netcoreapp3.1\07. ProjectsCreation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\07. ProjectsCreation\obj\Debug\netcoreapp3.1\07. ProjectsCreation.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\07. ProjectsCreation\obj\Debug\netcoreapp3.1\07. ProjectsCreation.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\07. ProjectsCreation\obj\Debug\netcoreapp3.1\07. ProjectsCreation.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\07. ProjectsCreation\obj\Debug\netcoreapp3.1\07. ProjectsCreation.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\07. ProjectsCreation\obj\Debug\netcoreapp3.1\07. ProjectsCreation.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\07. ProjectsCreation\obj\Debug\netcoreapp3.1\07. ProjectsCreation.genruntimeconfig.cache
