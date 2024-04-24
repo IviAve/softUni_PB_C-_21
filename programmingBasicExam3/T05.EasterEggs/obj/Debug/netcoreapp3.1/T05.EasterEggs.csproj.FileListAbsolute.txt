@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T05.EasterEggs\bin\Debug\netcoreapp3.1\T05.EasterEggs.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T05.EasterEggs\bin\Debug\netcoreapp3.1\T05.EasterEggs.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T05.EasterEggs\bin\Debug\netcoreapp3.1\T05.EasterEggs.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T05.EasterEggs\bin\Debug\netcoreapp3.1\T05.EasterEggs.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T05.EasterEggs\bin\Debug\netcoreapp3.1\T05.EasterEggs.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T05.EasterEggs\bin\Debug\netcoreapp3.1\T05.EasterEggs.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T05.EasterEggs\obj\Debug\netcoreapp3.1\T05.EasterEggs.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T05.EasterEggs\obj\Debug\netcoreapp3.1\T05.EasterEggs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T05.EasterEggs\obj\Debug\netcoreapp3.1\T05.EasterEggs.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T05.EasterEggs\obj\Debug\netcoreapp3.1\T05.EasterEggs.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T05.EasterEggs\obj\Debug\netcoreapp3.1\T05.EasterEggs.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T05.EasterEggs\obj\Debug\netcoreapp3.1\T05.EasterEggs.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T05.EasterEggs\obj\Debug\netcoreapp3.1\T05.EasterEggs.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T05.EasterEggs\obj\Debug\netcoreapp3.1\T05.EasterEggs.genruntimeconfig.cache

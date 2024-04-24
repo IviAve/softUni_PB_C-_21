@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T03.FilmPremiere\bin\Debug\netcoreapp3.1\T03.FilmPremiere.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T03.FilmPremiere\bin\Debug\netcoreapp3.1\T03.FilmPremiere.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T03.FilmPremiere\bin\Debug\netcoreapp3.1\T03.FilmPremiere.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T03.FilmPremiere\bin\Debug\netcoreapp3.1\T03.FilmPremiere.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T03.FilmPremiere\bin\Debug\netcoreapp3.1\T03.FilmPremiere.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T03.FilmPremiere\bin\Debug\netcoreapp3.1\T03.FilmPremiere.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T03.FilmPremiere\obj\Debug\netcoreapp3.1\T03.FilmPremiere.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T03.FilmPremiere\obj\Debug\netcoreapp3.1\T03.FilmPremiere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T03.FilmPremiere\obj\Debug\netcoreapp3.1\T03.FilmPremiere.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T03.FilmPremiere\obj\Debug\netcoreapp3.1\T03.FilmPremiere.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T03.FilmPremiere\obj\Debug\netcoreapp3.1\T03.FilmPremiere.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T03.FilmPremiere\obj\Debug\netcoreapp3.1\T03.FilmPremiere.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T03.FilmPremiere\obj\Debug\netcoreapp3.1\T03.FilmPremiere.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T03.FilmPremiere\obj\Debug\netcoreapp3.1\T03.FilmPremiere.genruntimeconfig.cache

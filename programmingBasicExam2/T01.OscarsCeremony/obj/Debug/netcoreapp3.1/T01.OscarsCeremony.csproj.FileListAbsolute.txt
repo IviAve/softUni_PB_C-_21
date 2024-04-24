@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T01.OscarsCeremony\bin\Debug\netcoreapp3.1\T01.OscarsCeremony.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T01.OscarsCeremony\bin\Debug\netcoreapp3.1\T01.OscarsCeremony.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T01.OscarsCeremony\bin\Debug\netcoreapp3.1\T01.OscarsCeremony.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T01.OscarsCeremony\bin\Debug\netcoreapp3.1\T01.OscarsCeremony.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T01.OscarsCeremony\bin\Debug\netcoreapp3.1\T01.OscarsCeremony.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T01.OscarsCeremony\bin\Debug\netcoreapp3.1\T01.OscarsCeremony.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T01.OscarsCeremony\obj\Debug\netcoreapp3.1\T01.OscarsCeremony.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T01.OscarsCeremony\obj\Debug\netcoreapp3.1\T01.OscarsCeremony.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T01.OscarsCeremony\obj\Debug\netcoreapp3.1\T01.OscarsCeremony.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T01.OscarsCeremony\obj\Debug\netcoreapp3.1\T01.OscarsCeremony.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T01.OscarsCeremony\obj\Debug\netcoreapp3.1\T01.OscarsCeremony.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T01.OscarsCeremony\obj\Debug\netcoreapp3.1\T01.OscarsCeremony.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T01.OscarsCeremony\obj\Debug\netcoreapp3.1\T01.OscarsCeremony.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T01.OscarsCeremony\obj\Debug\netcoreapp3.1\T01.OscarsCeremony.genruntimeconfig.cache

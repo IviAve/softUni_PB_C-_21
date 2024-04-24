@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T04.TouristShop", "T04.TouristShop\T04.TouristShop.csproj", "{83CA6951-8B77-4D56-84BA-7B16A5D6BA76}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T06.VetParking", "T06.VetParking\T06.VetParking.csproj", "{D5A7E393-9990-41AF-A456-72E00F5A149A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83CA6951-8B77-4D56-84BA-7B16A5D6BA76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83CA6951-8B77-4D56-84BA-7B16A5D6BA76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83CA6951-8B77-4D56-84BA-7B16A5D6BA76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83CA6951-8B77-4D56-84BA-7B16A5D6BA76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5A7E393-9990-41AF-A456-72E00F5A149A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5A7E393-9990-41AF-A456-72E00F5A149A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5A7E393-9990-41AF-A456-72E00F5A149A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5A7E393-9990-41AF-A456-72E00F5A149A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34DE7E8E-8B38-4EB3-BB8D-98558CF6A8C3}
+	EndGlobalSection
+EndGlobal

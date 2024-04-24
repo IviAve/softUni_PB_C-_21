@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T05.MovieRatings\bin\Debug\netcoreapp3.1\T05.MovieRatings.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T05.MovieRatings\bin\Debug\netcoreapp3.1\T05.MovieRatings.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T05.MovieRatings\bin\Debug\netcoreapp3.1\T05.MovieRatings.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T05.MovieRatings\bin\Debug\netcoreapp3.1\T05.MovieRatings.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T05.MovieRatings\bin\Debug\netcoreapp3.1\T05.MovieRatings.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T05.MovieRatings\bin\Debug\netcoreapp3.1\T05.MovieRatings.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T05.MovieRatings\obj\Debug\netcoreapp3.1\T05.MovieRatings.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T05.MovieRatings\obj\Debug\netcoreapp3.1\T05.MovieRatings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T05.MovieRatings\obj\Debug\netcoreapp3.1\T05.MovieRatings.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T05.MovieRatings\obj\Debug\netcoreapp3.1\T05.MovieRatings.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T05.MovieRatings\obj\Debug\netcoreapp3.1\T05.MovieRatings.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T05.MovieRatings\obj\Debug\netcoreapp3.1\T05.MovieRatings.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T05.MovieRatings\obj\Debug\netcoreapp3.1\T05.MovieRatings.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T05.MovieRatings\obj\Debug\netcoreapp3.1\T05.MovieRatings.genruntimeconfig.cache

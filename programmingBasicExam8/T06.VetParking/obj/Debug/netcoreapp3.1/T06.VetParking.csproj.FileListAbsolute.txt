@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T06.VetParking\bin\Debug\netcoreapp3.1\T06.VetParking.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T06.VetParking\bin\Debug\netcoreapp3.1\T06.VetParking.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T06.VetParking\bin\Debug\netcoreapp3.1\T06.VetParking.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T06.VetParking\bin\Debug\netcoreapp3.1\T06.VetParking.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T06.VetParking\bin\Debug\netcoreapp3.1\T06.VetParking.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T06.VetParking\bin\Debug\netcoreapp3.1\T06.VetParking.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T06.VetParking\obj\Debug\netcoreapp3.1\T06.VetParking.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T06.VetParking\obj\Debug\netcoreapp3.1\T06.VetParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T06.VetParking\obj\Debug\netcoreapp3.1\T06.VetParking.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T06.VetParking\obj\Debug\netcoreapp3.1\T06.VetParking.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T06.VetParking\obj\Debug\netcoreapp3.1\T06.VetParking.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T06.VetParking\obj\Debug\netcoreapp3.1\T06.VetParking.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T06.VetParking\obj\Debug\netcoreapp3.1\T06.VetParking.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T06.VetParking\obj\Debug\netcoreapp3.1\T06.VetParking.genruntimeconfig.cache

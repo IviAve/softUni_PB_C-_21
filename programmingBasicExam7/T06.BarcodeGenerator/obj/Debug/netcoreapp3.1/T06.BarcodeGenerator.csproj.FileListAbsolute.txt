@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T06.BarcodeGenerator\bin\Debug\netcoreapp3.1\T06.BarcodeGenerator.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T06.BarcodeGenerator\bin\Debug\netcoreapp3.1\T06.BarcodeGenerator.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T06.BarcodeGenerator\bin\Debug\netcoreapp3.1\T06.BarcodeGenerator.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T06.BarcodeGenerator\bin\Debug\netcoreapp3.1\T06.BarcodeGenerator.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T06.BarcodeGenerator\bin\Debug\netcoreapp3.1\T06.BarcodeGenerator.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T06.BarcodeGenerator\bin\Debug\netcoreapp3.1\T06.BarcodeGenerator.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T06.BarcodeGenerator\obj\Debug\netcoreapp3.1\T06.BarcodeGenerator.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T06.BarcodeGenerator\obj\Debug\netcoreapp3.1\T06.BarcodeGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T06.BarcodeGenerator\obj\Debug\netcoreapp3.1\T06.BarcodeGenerator.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T06.BarcodeGenerator\obj\Debug\netcoreapp3.1\T06.BarcodeGenerator.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T06.BarcodeGenerator\obj\Debug\netcoreapp3.1\T06.BarcodeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T06.BarcodeGenerator\obj\Debug\netcoreapp3.1\T06.BarcodeGenerator.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T06.BarcodeGenerator\obj\Debug\netcoreapp3.1\T06.BarcodeGenerator.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T06.BarcodeGenerator\obj\Debug\netcoreapp3.1\T06.BarcodeGenerator.genruntimeconfig.cache

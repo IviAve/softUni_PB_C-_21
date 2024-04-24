@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T02.FamilyTrip\bin\Debug\netcoreapp3.1\T02.FamilyTrip.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T02.FamilyTrip\bin\Debug\netcoreapp3.1\T02.FamilyTrip.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T02.FamilyTrip\bin\Debug\netcoreapp3.1\T02.FamilyTrip.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T02.FamilyTrip\bin\Debug\netcoreapp3.1\T02.FamilyTrip.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T02.FamilyTrip\bin\Debug\netcoreapp3.1\T02.FamilyTrip.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T02.FamilyTrip\bin\Debug\netcoreapp3.1\T02.FamilyTrip.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T02.FamilyTrip\obj\Debug\netcoreapp3.1\T02.FamilyTrip.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T02.FamilyTrip\obj\Debug\netcoreapp3.1\T02.FamilyTrip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T02.FamilyTrip\obj\Debug\netcoreapp3.1\T02.FamilyTrip.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T02.FamilyTrip\obj\Debug\netcoreapp3.1\T02.FamilyTrip.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T02.FamilyTrip\obj\Debug\netcoreapp3.1\T02.FamilyTrip.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T02.FamilyTrip\obj\Debug\netcoreapp3.1\T02.FamilyTrip.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T02.FamilyTrip\obj\Debug\netcoreapp3.1\T02.FamilyTrip.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T02.FamilyTrip\obj\Debug\netcoreapp3.1\T02.FamilyTrip.genruntimeconfig.cache

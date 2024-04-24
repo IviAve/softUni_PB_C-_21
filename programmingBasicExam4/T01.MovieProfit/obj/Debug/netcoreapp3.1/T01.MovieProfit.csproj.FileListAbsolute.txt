@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T01.MovieProfit\bin\Debug\netcoreapp3.1\T01.MovieProfit.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T01.MovieProfit\bin\Debug\netcoreapp3.1\T01.MovieProfit.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T01.MovieProfit\bin\Debug\netcoreapp3.1\T01.MovieProfit.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T01.MovieProfit\bin\Debug\netcoreapp3.1\T01.MovieProfit.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T01.MovieProfit\bin\Debug\netcoreapp3.1\T01.MovieProfit.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T01.MovieProfit\bin\Debug\netcoreapp3.1\T01.MovieProfit.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T01.MovieProfit\obj\Debug\netcoreapp3.1\T01.MovieProfit.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T01.MovieProfit\obj\Debug\netcoreapp3.1\T01.MovieProfit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T01.MovieProfit\obj\Debug\netcoreapp3.1\T01.MovieProfit.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T01.MovieProfit\obj\Debug\netcoreapp3.1\T01.MovieProfit.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T01.MovieProfit\obj\Debug\netcoreapp3.1\T01.MovieProfit.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T01.MovieProfit\obj\Debug\netcoreapp3.1\T01.MovieProfit.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T01.MovieProfit\obj\Debug\netcoreapp3.1\T01.MovieProfit.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T01.MovieProfit\obj\Debug\netcoreapp3.1\T01.MovieProfit.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\Т 03.EasterTrip\bin\Debug\netcoreapp3.1\Т 03.EasterTrip.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\Т 03.EasterTrip\bin\Debug\netcoreapp3.1\Т 03.EasterTrip.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\Т 03.EasterTrip\bin\Debug\netcoreapp3.1\Т 03.EasterTrip.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\Т 03.EasterTrip\bin\Debug\netcoreapp3.1\Т 03.EasterTrip.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\Т 03.EasterTrip\bin\Debug\netcoreapp3.1\Т 03.EasterTrip.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\Т 03.EasterTrip\bin\Debug\netcoreapp3.1\Т 03.EasterTrip.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\Т 03.EasterTrip\obj\Debug\netcoreapp3.1\Т 03.EasterTrip.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\Т 03.EasterTrip\obj\Debug\netcoreapp3.1\Т 03.EasterTrip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\Т 03.EasterTrip\obj\Debug\netcoreapp3.1\Т 03.EasterTrip.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\Т 03.EasterTrip\obj\Debug\netcoreapp3.1\Т 03.EasterTrip.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\Т 03.EasterTrip\obj\Debug\netcoreapp3.1\Т 03.EasterTrip.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\Т 03.EasterTrip\obj\Debug\netcoreapp3.1\Т 03.EasterTrip.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\Т 03.EasterTrip\obj\Debug\netcoreapp3.1\Т 03.EasterTrip.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\Т 03.EasterTrip\obj\Debug\netcoreapp3.1\Т 03.EasterTrip.genruntimeconfig.cache

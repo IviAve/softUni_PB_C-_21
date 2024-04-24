@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T03.Gymnastics\bin\Debug\netcoreapp3.1\T03.Gymnastics.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T03.Gymnastics\bin\Debug\netcoreapp3.1\T03.Gymnastics.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T03.Gymnastics\bin\Debug\netcoreapp3.1\T03.Gymnastics.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T03.Gymnastics\bin\Debug\netcoreapp3.1\T03.Gymnastics.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T03.Gymnastics\bin\Debug\netcoreapp3.1\T03.Gymnastics.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T03.Gymnastics\bin\Debug\netcoreapp3.1\T03.Gymnastics.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T03.Gymnastics\obj\Debug\netcoreapp3.1\T03.Gymnastics.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T03.Gymnastics\obj\Debug\netcoreapp3.1\T03.Gymnastics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T03.Gymnastics\obj\Debug\netcoreapp3.1\T03.Gymnastics.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T03.Gymnastics\obj\Debug\netcoreapp3.1\T03.Gymnastics.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T03.Gymnastics\obj\Debug\netcoreapp3.1\T03.Gymnastics.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T03.Gymnastics\obj\Debug\netcoreapp3.1\T03.Gymnastics.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T03.Gymnastics\obj\Debug\netcoreapp3.1\T03.Gymnastics.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T03.Gymnastics\obj\Debug\netcoreapp3.1\T03.Gymnastics.genruntimeconfig.cache

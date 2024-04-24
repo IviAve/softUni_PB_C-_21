@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T04.TouristShop\bin\Debug\netcoreapp3.1\T04.TouristShop.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T04.TouristShop\bin\Debug\netcoreapp3.1\T04.TouristShop.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T04.TouristShop\bin\Debug\netcoreapp3.1\T04.TouristShop.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T04.TouristShop\bin\Debug\netcoreapp3.1\T04.TouristShop.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T04.TouristShop\bin\Debug\netcoreapp3.1\T04.TouristShop.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T04.TouristShop\bin\Debug\netcoreapp3.1\T04.TouristShop.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T04.TouristShop\obj\Debug\netcoreapp3.1\T04.TouristShop.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T04.TouristShop\obj\Debug\netcoreapp3.1\T04.TouristShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T04.TouristShop\obj\Debug\netcoreapp3.1\T04.TouristShop.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T04.TouristShop\obj\Debug\netcoreapp3.1\T04.TouristShop.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T04.TouristShop\obj\Debug\netcoreapp3.1\T04.TouristShop.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T04.TouristShop\obj\Debug\netcoreapp3.1\T04.TouristShop.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T04.TouristShop\obj\Debug\netcoreapp3.1\T04.TouristShop.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T04.TouristShop\obj\Debug\netcoreapp3.1\T04.TouristShop.genruntimeconfig.cache

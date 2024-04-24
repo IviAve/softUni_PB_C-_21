@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\BirthDayParty\BirthDayParty\bin\Debug\netcoreapp3.1\BirthDayParty.exe
+C:\Users\Lenovo\source\repos\BirthDayParty\BirthDayParty\bin\Debug\netcoreapp3.1\BirthDayParty.deps.json
+C:\Users\Lenovo\source\repos\BirthDayParty\BirthDayParty\bin\Debug\netcoreapp3.1\BirthDayParty.runtimeconfig.json
+C:\Users\Lenovo\source\repos\BirthDayParty\BirthDayParty\bin\Debug\netcoreapp3.1\BirthDayParty.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\BirthDayParty\BirthDayParty\bin\Debug\netcoreapp3.1\BirthDayParty.dll
+C:\Users\Lenovo\source\repos\BirthDayParty\BirthDayParty\bin\Debug\netcoreapp3.1\BirthDayParty.pdb
+C:\Users\Lenovo\source\repos\BirthDayParty\BirthDayParty\obj\Debug\netcoreapp3.1\BirthDayParty.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\BirthDayParty\BirthDayParty\obj\Debug\netcoreapp3.1\BirthDayParty.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\BirthDayParty\BirthDayParty\obj\Debug\netcoreapp3.1\BirthDayParty.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\BirthDayParty\BirthDayParty\obj\Debug\netcoreapp3.1\BirthDayParty.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\BirthDayParty\BirthDayParty\obj\Debug\netcoreapp3.1\BirthDayParty.dll
+C:\Users\Lenovo\source\repos\BirthDayParty\BirthDayParty\obj\Debug\netcoreapp3.1\BirthDayParty.pdb
+C:\Users\Lenovo\source\repos\BirthDayParty\BirthDayParty\obj\Debug\netcoreapp3.1\BirthDayParty.genruntimeconfig.cache

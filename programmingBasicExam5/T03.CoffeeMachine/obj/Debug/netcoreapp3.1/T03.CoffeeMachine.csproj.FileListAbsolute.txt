@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T03.CoffeeMachine\bin\Debug\netcoreapp3.1\T03.CoffeeMachine.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T03.CoffeeMachine\bin\Debug\netcoreapp3.1\T03.CoffeeMachine.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T03.CoffeeMachine\bin\Debug\netcoreapp3.1\T03.CoffeeMachine.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T03.CoffeeMachine\bin\Debug\netcoreapp3.1\T03.CoffeeMachine.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T03.CoffeeMachine\bin\Debug\netcoreapp3.1\T03.CoffeeMachine.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T03.CoffeeMachine\bin\Debug\netcoreapp3.1\T03.CoffeeMachine.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T03.CoffeeMachine\obj\Debug\netcoreapp3.1\T03.CoffeeMachine.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T03.CoffeeMachine\obj\Debug\netcoreapp3.1\T03.CoffeeMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T03.CoffeeMachine\obj\Debug\netcoreapp3.1\T03.CoffeeMachine.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T03.CoffeeMachine\obj\Debug\netcoreapp3.1\T03.CoffeeMachine.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T03.CoffeeMachine\obj\Debug\netcoreapp3.1\T03.CoffeeMachine.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T03.CoffeeMachine\obj\Debug\netcoreapp3.1\T03.CoffeeMachine.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T03.CoffeeMachine\obj\Debug\netcoreapp3.1\T03.CoffeeMachine.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\Exam\T03.CoffeeMachine\obj\Debug\netcoreapp3.1\T03.CoffeeMachine.genruntimeconfig.cache
