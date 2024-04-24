@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T08.TennisRanklist\bin\Debug\netcoreapp3.1\T08.TennisRanklist.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T08.TennisRanklist\bin\Debug\netcoreapp3.1\T08.TennisRanklist.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T08.TennisRanklist\bin\Debug\netcoreapp3.1\T08.TennisRanklist.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T08.TennisRanklist\bin\Debug\netcoreapp3.1\T08.TennisRanklist.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T08.TennisRanklist\bin\Debug\netcoreapp3.1\T08.TennisRanklist.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T08.TennisRanklist\bin\Debug\netcoreapp3.1\T08.TennisRanklist.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T08.TennisRanklist\obj\Debug\netcoreapp3.1\T08.TennisRanklist.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T08.TennisRanklist\obj\Debug\netcoreapp3.1\T08.TennisRanklist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T08.TennisRanklist\obj\Debug\netcoreapp3.1\T08.TennisRanklist.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T08.TennisRanklist\obj\Debug\netcoreapp3.1\T08.TennisRanklist.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T08.TennisRanklist\obj\Debug\netcoreapp3.1\T08.TennisRanklist.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T08.TennisRanklist\obj\Debug\netcoreapp3.1\T08.TennisRanklist.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T08.TennisRanklist\obj\Debug\netcoreapp3.1\T08.TennisRanklist.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T08.TennisRanklist\obj\Debug\netcoreapp3.1\T08.TennisRanklist.genruntimeconfig.cache

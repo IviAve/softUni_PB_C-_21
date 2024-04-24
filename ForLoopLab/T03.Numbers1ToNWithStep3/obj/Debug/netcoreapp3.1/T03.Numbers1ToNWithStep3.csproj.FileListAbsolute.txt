@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T03.Numbers1ToNWithStep3\bin\Debug\netcoreapp3.1\T03.Numbers1ToNWithStep3.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T03.Numbers1ToNWithStep3\bin\Debug\netcoreapp3.1\T03.Numbers1ToNWithStep3.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T03.Numbers1ToNWithStep3\bin\Debug\netcoreapp3.1\T03.Numbers1ToNWithStep3.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T03.Numbers1ToNWithStep3\bin\Debug\netcoreapp3.1\T03.Numbers1ToNWithStep3.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T03.Numbers1ToNWithStep3\bin\Debug\netcoreapp3.1\T03.Numbers1ToNWithStep3.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T03.Numbers1ToNWithStep3\bin\Debug\netcoreapp3.1\T03.Numbers1ToNWithStep3.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T03.Numbers1ToNWithStep3\obj\Debug\netcoreapp3.1\T03.Numbers1ToNWithStep3.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T03.Numbers1ToNWithStep3\obj\Debug\netcoreapp3.1\T03.Numbers1ToNWithStep3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T03.Numbers1ToNWithStep3\obj\Debug\netcoreapp3.1\T03.Numbers1ToNWithStep3.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T03.Numbers1ToNWithStep3\obj\Debug\netcoreapp3.1\T03.Numbers1ToNWithStep3.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T03.Numbers1ToNWithStep3\obj\Debug\netcoreapp3.1\T03.Numbers1ToNWithStep3.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T03.Numbers1ToNWithStep3\obj\Debug\netcoreapp3.1\T03.Numbers1ToNWithStep3.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T03.Numbers1ToNWithStep3\obj\Debug\netcoreapp3.1\T03.Numbers1ToNWithStep3.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T03.Numbers1ToNWithStep3\obj\Debug\netcoreapp3.1\T03.Numbers1ToNWithStep3.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\02.SummerOutfit\bin\Debug\netcoreapp3.1\02.SummerOutfit.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\02.SummerOutfit\bin\Debug\netcoreapp3.1\02.SummerOutfit.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\02.SummerOutfit\bin\Debug\netcoreapp3.1\02.SummerOutfit.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\02.SummerOutfit\bin\Debug\netcoreapp3.1\02.SummerOutfit.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\02.SummerOutfit\bin\Debug\netcoreapp3.1\02.SummerOutfit.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\02.SummerOutfit\bin\Debug\netcoreapp3.1\02.SummerOutfit.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\02.SummerOutfit\obj\Debug\netcoreapp3.1\02.SummerOutfit.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\02.SummerOutfit\obj\Debug\netcoreapp3.1\02.SummerOutfit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\02.SummerOutfit\obj\Debug\netcoreapp3.1\02.SummerOutfit.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\02.SummerOutfit\obj\Debug\netcoreapp3.1\02.SummerOutfit.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\02.SummerOutfit\obj\Debug\netcoreapp3.1\02.SummerOutfit.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\02.SummerOutfit\obj\Debug\netcoreapp3.1\02.SummerOutfit.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\02.SummerOutfit\obj\Debug\netcoreapp3.1\02.SummerOutfit.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\02.SummerOutfit\obj\Debug\netcoreapp3.1\02.SummerOutfit.genruntimeconfig.cache

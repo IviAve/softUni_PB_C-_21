@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\03.AnimalType\bin\Debug\netcoreapp3.1\03.AnimalType.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\03.AnimalType\bin\Debug\netcoreapp3.1\03.AnimalType.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\03.AnimalType\bin\Debug\netcoreapp3.1\03.AnimalType.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\03.AnimalType\bin\Debug\netcoreapp3.1\03.AnimalType.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\03.AnimalType\bin\Debug\netcoreapp3.1\03.AnimalType.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\03.AnimalType\bin\Debug\netcoreapp3.1\03.AnimalType.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\03.AnimalType\obj\Debug\netcoreapp3.1\03.AnimalType.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\03.AnimalType\obj\Debug\netcoreapp3.1\03.AnimalType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\03.AnimalType\obj\Debug\netcoreapp3.1\03.AnimalType.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\03.AnimalType\obj\Debug\netcoreapp3.1\03.AnimalType.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\03.AnimalType\obj\Debug\netcoreapp3.1\03.AnimalType.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\03.AnimalType\obj\Debug\netcoreapp3.1\03.AnimalType.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\03.AnimalType\obj\Debug\netcoreapp3.1\03.AnimalType.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\03.AnimalType\obj\Debug\netcoreapp3.1\03.AnimalType.genruntimeconfig.cache

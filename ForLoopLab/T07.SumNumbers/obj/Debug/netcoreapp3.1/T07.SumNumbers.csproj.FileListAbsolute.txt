@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T07.SumNumbers\bin\Debug\netcoreapp3.1\T07.SumNumbers.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T07.SumNumbers\bin\Debug\netcoreapp3.1\T07.SumNumbers.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T07.SumNumbers\bin\Debug\netcoreapp3.1\T07.SumNumbers.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T07.SumNumbers\bin\Debug\netcoreapp3.1\T07.SumNumbers.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T07.SumNumbers\bin\Debug\netcoreapp3.1\T07.SumNumbers.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T07.SumNumbers\bin\Debug\netcoreapp3.1\T07.SumNumbers.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T07.SumNumbers\obj\Debug\netcoreapp3.1\T07.SumNumbers.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T07.SumNumbers\obj\Debug\netcoreapp3.1\T07.SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T07.SumNumbers\obj\Debug\netcoreapp3.1\T07.SumNumbers.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T07.SumNumbers\obj\Debug\netcoreapp3.1\T07.SumNumbers.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T07.SumNumbers\obj\Debug\netcoreapp3.1\T07.SumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T07.SumNumbers\obj\Debug\netcoreapp3.1\T07.SumNumbers.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T07.SumNumbers\obj\Debug\netcoreapp3.1\T07.SumNumbers.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T07.SumNumbers\obj\Debug\netcoreapp3.1\T07.SumNumbers.genruntimeconfig.cache

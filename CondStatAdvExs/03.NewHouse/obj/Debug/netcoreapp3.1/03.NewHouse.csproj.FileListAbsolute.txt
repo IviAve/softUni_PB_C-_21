@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\03.NewHouse\obj\Debug\netcoreapp3.1\03.NewHouse.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\03.NewHouse\obj\Debug\netcoreapp3.1\03.NewHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\03.NewHouse\obj\Debug\netcoreapp3.1\03.NewHouse.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\03.NewHouse\obj\Debug\netcoreapp3.1\03.NewHouse.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\03.NewHouse\obj\Debug\netcoreapp3.1\03.NewHouse.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\03.NewHouse\bin\Debug\netcoreapp3.1\03.NewHouse.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\03.NewHouse\bin\Debug\netcoreapp3.1\03.NewHouse.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\03.NewHouse\bin\Debug\netcoreapp3.1\03.NewHouse.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\03.NewHouse\bin\Debug\netcoreapp3.1\03.NewHouse.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\03.NewHouse\bin\Debug\netcoreapp3.1\03.NewHouse.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\03.NewHouse\bin\Debug\netcoreapp3.1\03.NewHouse.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\03.NewHouse\obj\Debug\netcoreapp3.1\03.NewHouse.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\03.NewHouse\obj\Debug\netcoreapp3.1\03.NewHouse.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\03.NewHouse\obj\Debug\netcoreapp3.1\03.NewHouse.genruntimeconfig.cache

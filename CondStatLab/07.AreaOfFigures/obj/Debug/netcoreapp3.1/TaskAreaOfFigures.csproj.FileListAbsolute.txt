@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\TaskAreaOfFigures\bin\Debug\netcoreapp3.1\TaskAreaOfFigures.exe
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\TaskAreaOfFigures\bin\Debug\netcoreapp3.1\TaskAreaOfFigures.deps.json
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\TaskAreaOfFigures\bin\Debug\netcoreapp3.1\TaskAreaOfFigures.runtimeconfig.json
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\TaskAreaOfFigures\bin\Debug\netcoreapp3.1\TaskAreaOfFigures.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\TaskAreaOfFigures\bin\Debug\netcoreapp3.1\TaskAreaOfFigures.dll
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\TaskAreaOfFigures\bin\Debug\netcoreapp3.1\TaskAreaOfFigures.pdb
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\TaskAreaOfFigures\obj\Debug\netcoreapp3.1\TaskAreaOfFigures.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\TaskAreaOfFigures\obj\Debug\netcoreapp3.1\TaskAreaOfFigures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\TaskAreaOfFigures\obj\Debug\netcoreapp3.1\TaskAreaOfFigures.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\TaskAreaOfFigures\obj\Debug\netcoreapp3.1\TaskAreaOfFigures.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\TaskAreaOfFigures\obj\Debug\netcoreapp3.1\TaskAreaOfFigures.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\TaskAreaOfFigures\obj\Debug\netcoreapp3.1\TaskAreaOfFigures.dll
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\TaskAreaOfFigures\obj\Debug\netcoreapp3.1\TaskAreaOfFigures.pdb
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\TaskAreaOfFigures\obj\Debug\netcoreapp3.1\TaskAreaOfFigures.genruntimeconfig.cache

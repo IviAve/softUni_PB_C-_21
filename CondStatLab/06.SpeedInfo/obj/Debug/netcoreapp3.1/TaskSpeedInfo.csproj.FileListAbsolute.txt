@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\TaskSpeedInfo\bin\Debug\netcoreapp3.1\TaskSpeedInfo.exe
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\TaskSpeedInfo\bin\Debug\netcoreapp3.1\TaskSpeedInfo.deps.json
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\TaskSpeedInfo\bin\Debug\netcoreapp3.1\TaskSpeedInfo.runtimeconfig.json
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\TaskSpeedInfo\bin\Debug\netcoreapp3.1\TaskSpeedInfo.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\TaskSpeedInfo\bin\Debug\netcoreapp3.1\TaskSpeedInfo.dll
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\TaskSpeedInfo\bin\Debug\netcoreapp3.1\TaskSpeedInfo.pdb
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\TaskSpeedInfo\obj\Debug\netcoreapp3.1\TaskSpeedInfo.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\TaskSpeedInfo\obj\Debug\netcoreapp3.1\TaskSpeedInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\TaskSpeedInfo\obj\Debug\netcoreapp3.1\TaskSpeedInfo.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\TaskSpeedInfo\obj\Debug\netcoreapp3.1\TaskSpeedInfo.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\TaskSpeedInfo\obj\Debug\netcoreapp3.1\TaskSpeedInfo.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\TaskSpeedInfo\obj\Debug\netcoreapp3.1\TaskSpeedInfo.dll
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\TaskSpeedInfo\obj\Debug\netcoreapp3.1\TaskSpeedInfo.pdb
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\TaskSpeedInfo\obj\Debug\netcoreapp3.1\TaskSpeedInfo.genruntimeconfig.cache

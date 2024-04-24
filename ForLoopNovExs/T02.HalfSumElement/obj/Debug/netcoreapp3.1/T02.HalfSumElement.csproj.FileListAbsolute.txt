@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T02.HalfSumElement\bin\Debug\netcoreapp3.1\T02.HalfSumElement.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T02.HalfSumElement\bin\Debug\netcoreapp3.1\T02.HalfSumElement.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T02.HalfSumElement\bin\Debug\netcoreapp3.1\T02.HalfSumElement.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T02.HalfSumElement\bin\Debug\netcoreapp3.1\T02.HalfSumElement.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T02.HalfSumElement\bin\Debug\netcoreapp3.1\T02.HalfSumElement.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T02.HalfSumElement\bin\Debug\netcoreapp3.1\T02.HalfSumElement.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T02.HalfSumElement\obj\Debug\netcoreapp3.1\T02.HalfSumElement.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T02.HalfSumElement\obj\Debug\netcoreapp3.1\T02.HalfSumElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T02.HalfSumElement\obj\Debug\netcoreapp3.1\T02.HalfSumElement.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T02.HalfSumElement\obj\Debug\netcoreapp3.1\T02.HalfSumElement.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T02.HalfSumElement\obj\Debug\netcoreapp3.1\T02.HalfSumElement.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T02.HalfSumElement\obj\Debug\netcoreapp3.1\T02.HalfSumElement.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T02.HalfSumElement\obj\Debug\netcoreapp3.1\T02.HalfSumElement.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T02.HalfSumElement\obj\Debug\netcoreapp3.1\T02.HalfSumElement.genruntimeconfig.cache

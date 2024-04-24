@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\07.Shopping\bin\Debug\netcoreapp3.1\07.Shopping.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\07.Shopping\bin\Debug\netcoreapp3.1\07.Shopping.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\07.Shopping\bin\Debug\netcoreapp3.1\07.Shopping.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\07.Shopping\bin\Debug\netcoreapp3.1\07.Shopping.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\07.Shopping\bin\Debug\netcoreapp3.1\07.Shopping.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\07.Shopping\bin\Debug\netcoreapp3.1\07.Shopping.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\07.Shopping\obj\Debug\netcoreapp3.1\07.Shopping.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\07.Shopping\obj\Debug\netcoreapp3.1\07.Shopping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\07.Shopping\obj\Debug\netcoreapp3.1\07.Shopping.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\07.Shopping\obj\Debug\netcoreapp3.1\07.Shopping.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\07.Shopping\obj\Debug\netcoreapp3.1\07.Shopping.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\07.Shopping\obj\Debug\netcoreapp3.1\07.Shopping.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\07.Shopping\obj\Debug\netcoreapp3.1\07.Shopping.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\07.Shopping\obj\Debug\netcoreapp3.1\07.Shopping.genruntimeconfig.cache

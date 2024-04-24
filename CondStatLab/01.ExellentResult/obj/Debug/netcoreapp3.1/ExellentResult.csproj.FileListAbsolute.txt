@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\ExellentResult\bin\Debug\netcoreapp3.1\ExellentResult.exe
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\ExellentResult\bin\Debug\netcoreapp3.1\ExellentResult.deps.json
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\ExellentResult\bin\Debug\netcoreapp3.1\ExellentResult.runtimeconfig.json
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\ExellentResult\bin\Debug\netcoreapp3.1\ExellentResult.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\ExellentResult\bin\Debug\netcoreapp3.1\ExellentResult.dll
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\ExellentResult\bin\Debug\netcoreapp3.1\ExellentResult.pdb
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\ExellentResult\obj\Debug\netcoreapp3.1\ExellentResult.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\ExellentResult\obj\Debug\netcoreapp3.1\ExellentResult.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\ExellentResult\obj\Debug\netcoreapp3.1\ExellentResult.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\ExellentResult\obj\Debug\netcoreapp3.1\ExellentResult.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\ExellentResult\obj\Debug\netcoreapp3.1\ExellentResult.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\ExellentResult\obj\Debug\netcoreapp3.1\ExellentResult.dll
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\ExellentResult\obj\Debug\netcoreapp3.1\ExellentResult.pdb
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\ExellentResult\obj\Debug\netcoreapp3.1\ExellentResult.genruntimeconfig.cache

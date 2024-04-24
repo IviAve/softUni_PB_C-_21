@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T06.VowelsSum\bin\Debug\netcoreapp3.1\T06.VowelsSum.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T06.VowelsSum\bin\Debug\netcoreapp3.1\T06.VowelsSum.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T06.VowelsSum\bin\Debug\netcoreapp3.1\T06.VowelsSum.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T06.VowelsSum\bin\Debug\netcoreapp3.1\T06.VowelsSum.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T06.VowelsSum\bin\Debug\netcoreapp3.1\T06.VowelsSum.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T06.VowelsSum\bin\Debug\netcoreapp3.1\T06.VowelsSum.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T06.VowelsSum\obj\Debug\netcoreapp3.1\T06.VowelsSum.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T06.VowelsSum\obj\Debug\netcoreapp3.1\T06.VowelsSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T06.VowelsSum\obj\Debug\netcoreapp3.1\T06.VowelsSum.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T06.VowelsSum\obj\Debug\netcoreapp3.1\T06.VowelsSum.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T06.VowelsSum\obj\Debug\netcoreapp3.1\T06.VowelsSum.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T06.VowelsSum\obj\Debug\netcoreapp3.1\T06.VowelsSum.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T06.VowelsSum\obj\Debug\netcoreapp3.1\T06.VowelsSum.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T06.VowelsSum\obj\Debug\netcoreapp3.1\T06.VowelsSum.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\06.Fishland\bin\Debug\netcoreapp3.1\06.Fishland.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\06.Fishland\bin\Debug\netcoreapp3.1\06.Fishland.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\06.Fishland\bin\Debug\netcoreapp3.1\06.Fishland.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\06.Fishland\bin\Debug\netcoreapp3.1\06.Fishland.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\06.Fishland\bin\Debug\netcoreapp3.1\06.Fishland.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\06.Fishland\bin\Debug\netcoreapp3.1\06.Fishland.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\06.Fishland\obj\Debug\netcoreapp3.1\06.Fishland.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\06.Fishland\obj\Debug\netcoreapp3.1\06.Fishland.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\06.Fishland\obj\Debug\netcoreapp3.1\06.Fishland.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\06.Fishland\obj\Debug\netcoreapp3.1\06.Fishland.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\06.Fishland\obj\Debug\netcoreapp3.1\06.Fishland.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\06.Fishland\obj\Debug\netcoreapp3.1\06.Fishland.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\06.Fishland\obj\Debug\netcoreapp3.1\06.Fishland.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\06.Fishland\obj\Debug\netcoreapp3.1\06.Fishland.genruntimeconfig.cache

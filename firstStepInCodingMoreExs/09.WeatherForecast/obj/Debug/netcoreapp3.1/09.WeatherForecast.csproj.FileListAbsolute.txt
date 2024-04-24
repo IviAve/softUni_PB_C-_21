@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\09.WeatherForecast\bin\Debug\netcoreapp3.1\09.WeatherForecast.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\09.WeatherForecast\bin\Debug\netcoreapp3.1\09.WeatherForecast.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\09.WeatherForecast\bin\Debug\netcoreapp3.1\09.WeatherForecast.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\09.WeatherForecast\bin\Debug\netcoreapp3.1\09.WeatherForecast.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\09.WeatherForecast\bin\Debug\netcoreapp3.1\09.WeatherForecast.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\09.WeatherForecast\bin\Debug\netcoreapp3.1\09.WeatherForecast.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\09.WeatherForecast\obj\Debug\netcoreapp3.1\09.WeatherForecast.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\09.WeatherForecast\obj\Debug\netcoreapp3.1\09.WeatherForecast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\09.WeatherForecast\obj\Debug\netcoreapp3.1\09.WeatherForecast.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\09.WeatherForecast\obj\Debug\netcoreapp3.1\09.WeatherForecast.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\09.WeatherForecast\obj\Debug\netcoreapp3.1\09.WeatherForecast.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\09.WeatherForecast\obj\Debug\netcoreapp3.1\09.WeatherForecast.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\09.WeatherForecast\obj\Debug\netcoreapp3.1\09.WeatherForecast.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\09.WeatherForecast\obj\Debug\netcoreapp3.1\09.WeatherForecast.genruntimeconfig.cache

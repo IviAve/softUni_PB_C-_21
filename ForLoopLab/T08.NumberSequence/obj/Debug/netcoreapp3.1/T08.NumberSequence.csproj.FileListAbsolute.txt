@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T08.NumberSequence\bin\Debug\netcoreapp3.1\T08.NumberSequence.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T08.NumberSequence\bin\Debug\netcoreapp3.1\T08.NumberSequence.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T08.NumberSequence\bin\Debug\netcoreapp3.1\T08.NumberSequence.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T08.NumberSequence\bin\Debug\netcoreapp3.1\T08.NumberSequence.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T08.NumberSequence\bin\Debug\netcoreapp3.1\T08.NumberSequence.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T08.NumberSequence\bin\Debug\netcoreapp3.1\T08.NumberSequence.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T08.NumberSequence\obj\Debug\netcoreapp3.1\T08.NumberSequence.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T08.NumberSequence\obj\Debug\netcoreapp3.1\T08.NumberSequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T08.NumberSequence\obj\Debug\netcoreapp3.1\T08.NumberSequence.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T08.NumberSequence\obj\Debug\netcoreapp3.1\T08.NumberSequence.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T08.NumberSequence\obj\Debug\netcoreapp3.1\T08.NumberSequence.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T08.NumberSequence\obj\Debug\netcoreapp3.1\T08.NumberSequence.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T08.NumberSequence\obj\Debug\netcoreapp3.1\T08.NumberSequence.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T08.NumberSequence\obj\Debug\netcoreapp3.1\T08.NumberSequence.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T10.OddEvenSum\bin\Debug\netcoreapp3.1\T10.OddEvenSum.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T10.OddEvenSum\bin\Debug\netcoreapp3.1\T10.OddEvenSum.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T10.OddEvenSum\bin\Debug\netcoreapp3.1\T10.OddEvenSum.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T10.OddEvenSum\bin\Debug\netcoreapp3.1\T10.OddEvenSum.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T10.OddEvenSum\bin\Debug\netcoreapp3.1\T10.OddEvenSum.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T10.OddEvenSum\bin\Debug\netcoreapp3.1\T10.OddEvenSum.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T10.OddEvenSum\obj\Debug\netcoreapp3.1\T10.OddEvenSum.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T10.OddEvenSum\obj\Debug\netcoreapp3.1\T10.OddEvenSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T10.OddEvenSum\obj\Debug\netcoreapp3.1\T10.OddEvenSum.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T10.OddEvenSum\obj\Debug\netcoreapp3.1\T10.OddEvenSum.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T10.OddEvenSum\obj\Debug\netcoreapp3.1\T10.OddEvenSum.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T10.OddEvenSum\obj\Debug\netcoreapp3.1\T10.OddEvenSum.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T10.OddEvenSum\obj\Debug\netcoreapp3.1\T10.OddEvenSum.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T10.OddEvenSum\obj\Debug\netcoreapp3.1\T10.OddEvenSum.genruntimeconfig.cache

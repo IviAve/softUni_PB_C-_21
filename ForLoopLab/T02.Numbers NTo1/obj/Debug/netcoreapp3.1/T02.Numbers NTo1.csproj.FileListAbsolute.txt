@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T02.Numbers NTo1\bin\Debug\netcoreapp3.1\T02.Numbers NTo1.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T02.Numbers NTo1\bin\Debug\netcoreapp3.1\T02.Numbers NTo1.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T02.Numbers NTo1\bin\Debug\netcoreapp3.1\T02.Numbers NTo1.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T02.Numbers NTo1\bin\Debug\netcoreapp3.1\T02.Numbers NTo1.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T02.Numbers NTo1\bin\Debug\netcoreapp3.1\T02.Numbers NTo1.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T02.Numbers NTo1\bin\Debug\netcoreapp3.1\T02.Numbers NTo1.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T02.Numbers NTo1\obj\Debug\netcoreapp3.1\T02.Numbers NTo1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T02.Numbers NTo1\obj\Debug\netcoreapp3.1\T02.Numbers NTo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T02.Numbers NTo1\obj\Debug\netcoreapp3.1\T02.Numbers NTo1.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T02.Numbers NTo1\obj\Debug\netcoreapp3.1\T02.Numbers NTo1.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T02.Numbers NTo1\obj\Debug\netcoreapp3.1\T02.Numbers NTo1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T02.Numbers NTo1\obj\Debug\netcoreapp3.1\T02.Numbers NTo1.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T02.Numbers NTo1\obj\Debug\netcoreapp3.1\T02.Numbers NTo1.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T02.Numbers NTo1\obj\Debug\netcoreapp3.1\T02.Numbers NTo1.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\08.CinemaTicket\bin\Debug\netcoreapp3.1\08.CinemaTicket.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\08.CinemaTicket\bin\Debug\netcoreapp3.1\08.CinemaTicket.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\08.CinemaTicket\bin\Debug\netcoreapp3.1\08.CinemaTicket.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\08.CinemaTicket\bin\Debug\netcoreapp3.1\08.CinemaTicket.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\08.CinemaTicket\bin\Debug\netcoreapp3.1\08.CinemaTicket.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\08.CinemaTicket\bin\Debug\netcoreapp3.1\08.CinemaTicket.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\08.CinemaTicket\obj\Debug\netcoreapp3.1\08.CinemaTicket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\08.CinemaTicket\obj\Debug\netcoreapp3.1\08.CinemaTicket.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\08.CinemaTicket\obj\Debug\netcoreapp3.1\08.CinemaTicket.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\08.CinemaTicket\obj\Debug\netcoreapp3.1\08.CinemaTicket.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\08.CinemaTicket\obj\Debug\netcoreapp3.1\08.CinemaTicket.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\08.CinemaTicket\obj\Debug\netcoreapp3.1\08.CinemaTicket.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\08.CinemaTicket\obj\Debug\netcoreapp3.1\08.CinemaTicket.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\08.CinemaTicket\obj\Debug\netcoreapp3.1\08.CinemaTicket.csproj.AssemblyReference.cache

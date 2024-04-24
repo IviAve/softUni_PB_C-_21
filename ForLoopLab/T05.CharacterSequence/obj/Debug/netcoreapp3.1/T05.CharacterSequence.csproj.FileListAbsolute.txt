@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T05.CharacterSequence\bin\Debug\netcoreapp3.1\T05.CharacterSequence.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T05.CharacterSequence\bin\Debug\netcoreapp3.1\T05.CharacterSequence.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T05.CharacterSequence\bin\Debug\netcoreapp3.1\T05.CharacterSequence.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T05.CharacterSequence\bin\Debug\netcoreapp3.1\T05.CharacterSequence.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T05.CharacterSequence\bin\Debug\netcoreapp3.1\T05.CharacterSequence.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T05.CharacterSequence\bin\Debug\netcoreapp3.1\T05.CharacterSequence.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T05.CharacterSequence\obj\Debug\netcoreapp3.1\T05.CharacterSequence.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T05.CharacterSequence\obj\Debug\netcoreapp3.1\T05.CharacterSequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T05.CharacterSequence\obj\Debug\netcoreapp3.1\T05.CharacterSequence.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T05.CharacterSequence\obj\Debug\netcoreapp3.1\T05.CharacterSequence.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T05.CharacterSequence\obj\Debug\netcoreapp3.1\T05.CharacterSequence.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T05.CharacterSequence\obj\Debug\netcoreapp3.1\T05.CharacterSequence.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T05.CharacterSequence\obj\Debug\netcoreapp3.1\T05.CharacterSequence.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T05.CharacterSequence\obj\Debug\netcoreapp3.1\T05.CharacterSequence.genruntimeconfig.cache

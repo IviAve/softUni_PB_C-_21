@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\03.TimeUp15Minutes\bin\Debug\netcoreapp3.1\03.TimeUp15Minutes.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\03.TimeUp15Minutes\bin\Debug\netcoreapp3.1\03.TimeUp15Minutes.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\03.TimeUp15Minutes\bin\Debug\netcoreapp3.1\03.TimeUp15Minutes.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\03.TimeUp15Minutes\bin\Debug\netcoreapp3.1\03.TimeUp15Minutes.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\03.TimeUp15Minutes\bin\Debug\netcoreapp3.1\03.TimeUp15Minutes.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\03.TimeUp15Minutes\bin\Debug\netcoreapp3.1\03.TimeUp15Minutes.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\03.TimeUp15Minutes\obj\Debug\netcoreapp3.1\03.TimeUp15Minutes.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\03.TimeUp15Minutes\obj\Debug\netcoreapp3.1\03.TimeUp15Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\03.TimeUp15Minutes\obj\Debug\netcoreapp3.1\03.TimeUp15Minutes.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\03.TimeUp15Minutes\obj\Debug\netcoreapp3.1\03.TimeUp15Minutes.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\03.TimeUp15Minutes\obj\Debug\netcoreapp3.1\03.TimeUp15Minutes.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\03.TimeUp15Minutes\obj\Debug\netcoreapp3.1\03.TimeUp15Minutes.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\03.TimeUp15Minutes\obj\Debug\netcoreapp3.1\03.TimeUp15Minutes.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\03.TimeUp15Minutes\obj\Debug\netcoreapp3.1\03.TimeUp15Minutes.genruntimeconfig.cache

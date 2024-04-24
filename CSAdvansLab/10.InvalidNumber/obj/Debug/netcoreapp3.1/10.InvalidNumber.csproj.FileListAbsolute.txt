@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\10.InvalidNumber\bin\Debug\netcoreapp3.1\10.InvalidNumber.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\10.InvalidNumber\bin\Debug\netcoreapp3.1\10.InvalidNumber.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\10.InvalidNumber\bin\Debug\netcoreapp3.1\10.InvalidNumber.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\10.InvalidNumber\bin\Debug\netcoreapp3.1\10.InvalidNumber.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\10.InvalidNumber\bin\Debug\netcoreapp3.1\10.InvalidNumber.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\10.InvalidNumber\bin\Debug\netcoreapp3.1\10.InvalidNumber.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\10.InvalidNumber\obj\Debug\netcoreapp3.1\10.InvalidNumber.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\10.InvalidNumber\obj\Debug\netcoreapp3.1\10.InvalidNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\10.InvalidNumber\obj\Debug\netcoreapp3.1\10.InvalidNumber.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\10.InvalidNumber\obj\Debug\netcoreapp3.1\10.InvalidNumber.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\10.InvalidNumber\obj\Debug\netcoreapp3.1\10.InvalidNumber.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\10.InvalidNumber\obj\Debug\netcoreapp3.1\10.InvalidNumber.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\10.InvalidNumber\obj\Debug\netcoreapp3.1\10.InvalidNumber.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\10.InvalidNumber\obj\Debug\netcoreapp3.1\10.InvalidNumber.genruntimeconfig.cache

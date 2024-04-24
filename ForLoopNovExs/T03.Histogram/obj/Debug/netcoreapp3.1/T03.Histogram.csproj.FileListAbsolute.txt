@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T03.Histogram\bin\Debug\netcoreapp3.1\T03.Histogram.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T03.Histogram\bin\Debug\netcoreapp3.1\T03.Histogram.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T03.Histogram\bin\Debug\netcoreapp3.1\T03.Histogram.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T03.Histogram\bin\Debug\netcoreapp3.1\T03.Histogram.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T03.Histogram\bin\Debug\netcoreapp3.1\T03.Histogram.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T03.Histogram\bin\Debug\netcoreapp3.1\T03.Histogram.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T03.Histogram\obj\Debug\netcoreapp3.1\T03.Histogram.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T03.Histogram\obj\Debug\netcoreapp3.1\T03.Histogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T03.Histogram\obj\Debug\netcoreapp3.1\T03.Histogram.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T03.Histogram\obj\Debug\netcoreapp3.1\T03.Histogram.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T03.Histogram\obj\Debug\netcoreapp3.1\T03.Histogram.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T03.Histogram\obj\Debug\netcoreapp3.1\T03.Histogram.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T03.Histogram\obj\Debug\netcoreapp3.1\T03.Histogram.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T03.Histogram\obj\Debug\netcoreapp3.1\T03.Histogram.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\05.GodzillaVsKong\bin\Debug\netcoreapp3.1\05.GodzillaVsKong.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\05.GodzillaVsKong\bin\Debug\netcoreapp3.1\05.GodzillaVsKong.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\05.GodzillaVsKong\bin\Debug\netcoreapp3.1\05.GodzillaVsKong.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\05.GodzillaVsKong\bin\Debug\netcoreapp3.1\05.GodzillaVsKong.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\05.GodzillaVsKong\bin\Debug\netcoreapp3.1\05.GodzillaVsKong.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\05.GodzillaVsKong\bin\Debug\netcoreapp3.1\05.GodzillaVsKong.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\05.GodzillaVsKong\obj\Debug\netcoreapp3.1\05.GodzillaVsKong.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\05.GodzillaVsKong\obj\Debug\netcoreapp3.1\05.GodzillaVsKong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\05.GodzillaVsKong\obj\Debug\netcoreapp3.1\05.GodzillaVsKong.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\05.GodzillaVsKong\obj\Debug\netcoreapp3.1\05.GodzillaVsKong.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\05.GodzillaVsKong\obj\Debug\netcoreapp3.1\05.GodzillaVsKong.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\05.GodzillaVsKong\obj\Debug\netcoreapp3.1\05.GodzillaVsKong.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\05.GodzillaVsKong\obj\Debug\netcoreapp3.1\05.GodzillaVsKong.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\05.GodzillaVsKong\obj\Debug\netcoreapp3.1\05.GodzillaVsKong.genruntimeconfig.cache

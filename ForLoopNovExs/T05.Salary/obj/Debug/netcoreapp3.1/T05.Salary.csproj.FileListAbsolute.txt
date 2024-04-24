@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T05.Salary\bin\Debug\netcoreapp3.1\T05.Salary.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T05.Salary\bin\Debug\netcoreapp3.1\T05.Salary.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T05.Salary\bin\Debug\netcoreapp3.1\T05.Salary.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T05.Salary\bin\Debug\netcoreapp3.1\T05.Salary.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T05.Salary\bin\Debug\netcoreapp3.1\T05.Salary.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T05.Salary\bin\Debug\netcoreapp3.1\T05.Salary.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T05.Salary\obj\Debug\netcoreapp3.1\T05.Salary.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T05.Salary\obj\Debug\netcoreapp3.1\T05.Salary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T05.Salary\obj\Debug\netcoreapp3.1\T05.Salary.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T05.Salary\obj\Debug\netcoreapp3.1\T05.Salary.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T05.Salary\obj\Debug\netcoreapp3.1\T05.Salary.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T05.Salary\obj\Debug\netcoreapp3.1\T05.Salary.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T05.Salary\obj\Debug\netcoreapp3.1\T05.Salary.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T05.Salary\obj\Debug\netcoreapp3.1\T05.Salary.genruntimeconfig.cache

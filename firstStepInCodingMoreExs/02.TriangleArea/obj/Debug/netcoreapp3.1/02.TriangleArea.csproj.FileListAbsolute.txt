@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\02.TriangleArea\bin\Debug\netcoreapp3.1\02.TriangleArea.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\02.TriangleArea\bin\Debug\netcoreapp3.1\02.TriangleArea.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\02.TriangleArea\bin\Debug\netcoreapp3.1\02.TriangleArea.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\02.TriangleArea\bin\Debug\netcoreapp3.1\02.TriangleArea.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\02.TriangleArea\bin\Debug\netcoreapp3.1\02.TriangleArea.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\02.TriangleArea\bin\Debug\netcoreapp3.1\02.TriangleArea.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\02.TriangleArea\obj\Debug\netcoreapp3.1\02.TriangleArea.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\02.TriangleArea\obj\Debug\netcoreapp3.1\02.TriangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\02.TriangleArea\obj\Debug\netcoreapp3.1\02.TriangleArea.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\02.TriangleArea\obj\Debug\netcoreapp3.1\02.TriangleArea.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\02.TriangleArea\obj\Debug\netcoreapp3.1\02.TriangleArea.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\02.TriangleArea\obj\Debug\netcoreapp3.1\02.TriangleArea.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\02.TriangleArea\obj\Debug\netcoreapp3.1\02.TriangleArea.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\02.TriangleArea\obj\Debug\netcoreapp3.1\02.TriangleArea.genruntimeconfig.cache

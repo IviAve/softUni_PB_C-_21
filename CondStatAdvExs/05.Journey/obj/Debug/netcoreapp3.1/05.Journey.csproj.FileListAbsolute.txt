@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\05.Journey\bin\Debug\netcoreapp3.1\05.Journey.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\05.Journey\bin\Debug\netcoreapp3.1\05.Journey.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\05.Journey\bin\Debug\netcoreapp3.1\05.Journey.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\05.Journey\bin\Debug\netcoreapp3.1\05.Journey.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\05.Journey\bin\Debug\netcoreapp3.1\05.Journey.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\05.Journey\bin\Debug\netcoreapp3.1\05.Journey.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\05.Journey\obj\Debug\netcoreapp3.1\05.Journey.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\05.Journey\obj\Debug\netcoreapp3.1\05.Journey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\05.Journey\obj\Debug\netcoreapp3.1\05.Journey.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\05.Journey\obj\Debug\netcoreapp3.1\05.Journey.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\05.Journey\obj\Debug\netcoreapp3.1\05.Journey.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\05.Journey\obj\Debug\netcoreapp3.1\05.Journey.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\05.Journey\obj\Debug\netcoreapp3.1\05.Journey.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\05.Journey\obj\Debug\netcoreapp3.1\05.Journey.genruntimeconfig.cache

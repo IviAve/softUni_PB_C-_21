@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\04.ToyShop\bin\Debug\netcoreapp3.1\04.ToyShop.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\04.ToyShop\bin\Debug\netcoreapp3.1\04.ToyShop.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\04.ToyShop\bin\Debug\netcoreapp3.1\04.ToyShop.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\04.ToyShop\bin\Debug\netcoreapp3.1\04.ToyShop.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\04.ToyShop\bin\Debug\netcoreapp3.1\04.ToyShop.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\04.ToyShop\bin\Debug\netcoreapp3.1\04.ToyShop.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\04.ToyShop\obj\Debug\netcoreapp3.1\04.ToyShop.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\04.ToyShop\obj\Debug\netcoreapp3.1\04.ToyShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\04.ToyShop\obj\Debug\netcoreapp3.1\04.ToyShop.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\04.ToyShop\obj\Debug\netcoreapp3.1\04.ToyShop.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\04.ToyShop\obj\Debug\netcoreapp3.1\04.ToyShop.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\04.ToyShop\obj\Debug\netcoreapp3.1\04.ToyShop.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\04.ToyShop\obj\Debug\netcoreapp3.1\04.ToyShop.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatNovExs\04.ToyShop\obj\Debug\netcoreapp3.1\04.ToyShop.genruntimeconfig.cache

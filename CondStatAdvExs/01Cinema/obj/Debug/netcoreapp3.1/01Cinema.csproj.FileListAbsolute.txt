@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\01Cinema\bin\Debug\netcoreapp3.1\01Cinema.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\01Cinema\bin\Debug\netcoreapp3.1\01Cinema.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\01Cinema\bin\Debug\netcoreapp3.1\01Cinema.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\01Cinema\bin\Debug\netcoreapp3.1\01Cinema.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\01Cinema\bin\Debug\netcoreapp3.1\01Cinema.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\01Cinema\bin\Debug\netcoreapp3.1\01Cinema.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\01Cinema\obj\Debug\netcoreapp3.1\01Cinema.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\01Cinema\obj\Debug\netcoreapp3.1\01Cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\01Cinema\obj\Debug\netcoreapp3.1\01Cinema.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\01Cinema\obj\Debug\netcoreapp3.1\01Cinema.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\01Cinema\obj\Debug\netcoreapp3.1\01Cinema.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\01Cinema\obj\Debug\netcoreapp3.1\01Cinema.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\01Cinema\obj\Debug\netcoreapp3.1\01Cinema.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\01Cinema\obj\Debug\netcoreapp3.1\01Cinema.genruntimeconfig.cache

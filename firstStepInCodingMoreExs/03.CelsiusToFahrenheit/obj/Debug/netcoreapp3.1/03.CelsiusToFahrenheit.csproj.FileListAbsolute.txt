@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\03.CelsiusToFahrenheit\bin\Debug\netcoreapp3.1\03.CelsiusToFahrenheit.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\03.CelsiusToFahrenheit\bin\Debug\netcoreapp3.1\03.CelsiusToFahrenheit.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\03.CelsiusToFahrenheit\bin\Debug\netcoreapp3.1\03.CelsiusToFahrenheit.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\03.CelsiusToFahrenheit\bin\Debug\netcoreapp3.1\03.CelsiusToFahrenheit.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\03.CelsiusToFahrenheit\bin\Debug\netcoreapp3.1\03.CelsiusToFahrenheit.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\03.CelsiusToFahrenheit\bin\Debug\netcoreapp3.1\03.CelsiusToFahrenheit.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\03.CelsiusToFahrenheit\obj\Debug\netcoreapp3.1\03.CelsiusToFahrenheit.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\03.CelsiusToFahrenheit\obj\Debug\netcoreapp3.1\03.CelsiusToFahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\03.CelsiusToFahrenheit\obj\Debug\netcoreapp3.1\03.CelsiusToFahrenheit.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\03.CelsiusToFahrenheit\obj\Debug\netcoreapp3.1\03.CelsiusToFahrenheit.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\03.CelsiusToFahrenheit\obj\Debug\netcoreapp3.1\03.CelsiusToFahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\03.CelsiusToFahrenheit\obj\Debug\netcoreapp3.1\03.CelsiusToFahrenheit.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\03.CelsiusToFahrenheit\obj\Debug\netcoreapp3.1\03.CelsiusToFahrenheit.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\03.CelsiusToFahrenheit\obj\Debug\netcoreapp3.1\03.CelsiusToFahrenheit.genruntimeconfig.cache

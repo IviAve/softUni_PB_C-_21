@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T09.LeftAndRightSum\bin\Debug\netcoreapp3.1\T09.LeftAndRightSum.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T09.LeftAndRightSum\bin\Debug\netcoreapp3.1\T09.LeftAndRightSum.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T09.LeftAndRightSum\bin\Debug\netcoreapp3.1\T09.LeftAndRightSum.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T09.LeftAndRightSum\bin\Debug\netcoreapp3.1\T09.LeftAndRightSum.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T09.LeftAndRightSum\bin\Debug\netcoreapp3.1\T09.LeftAndRightSum.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T09.LeftAndRightSum\bin\Debug\netcoreapp3.1\T09.LeftAndRightSum.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T09.LeftAndRightSum\obj\Debug\netcoreapp3.1\T09.LeftAndRightSum.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T09.LeftAndRightSum\obj\Debug\netcoreapp3.1\T09.LeftAndRightSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T09.LeftAndRightSum\obj\Debug\netcoreapp3.1\T09.LeftAndRightSum.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T09.LeftAndRightSum\obj\Debug\netcoreapp3.1\T09.LeftAndRightSum.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T09.LeftAndRightSum\obj\Debug\netcoreapp3.1\T09.LeftAndRightSum.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T09.LeftAndRightSum\obj\Debug\netcoreapp3.1\T09.LeftAndRightSum.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T09.LeftAndRightSum\obj\Debug\netcoreapp3.1\T09.LeftAndRightSum.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopLab\T09.LeftAndRightSum\obj\Debug\netcoreapp3.1\T09.LeftAndRightSum.genruntimeconfig.cache

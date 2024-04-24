@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\05.SmallShop\bin\Debug\netcoreapp3.1\05.SmallShop.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\05.SmallShop\bin\Debug\netcoreapp3.1\05.SmallShop.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\05.SmallShop\bin\Debug\netcoreapp3.1\05.SmallShop.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\05.SmallShop\bin\Debug\netcoreapp3.1\05.SmallShop.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\05.SmallShop\bin\Debug\netcoreapp3.1\05.SmallShop.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\05.SmallShop\bin\Debug\netcoreapp3.1\05.SmallShop.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\05.SmallShop\obj\Debug\netcoreapp3.1\05.SmallShop.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\05.SmallShop\obj\Debug\netcoreapp3.1\05.SmallShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\05.SmallShop\obj\Debug\netcoreapp3.1\05.SmallShop.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\05.SmallShop\obj\Debug\netcoreapp3.1\05.SmallShop.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\05.SmallShop\obj\Debug\netcoreapp3.1\05.SmallShop.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\05.SmallShop\obj\Debug\netcoreapp3.1\05.SmallShop.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\05.SmallShop\obj\Debug\netcoreapp3.1\05.SmallShop.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\05.SmallShop\obj\Debug\netcoreapp3.1\05.SmallShop.genruntimeconfig.cache

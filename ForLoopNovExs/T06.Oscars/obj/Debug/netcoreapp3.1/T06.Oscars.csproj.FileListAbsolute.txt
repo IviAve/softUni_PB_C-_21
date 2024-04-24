@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T06.Oscars\bin\Debug\netcoreapp3.1\T06.Oscars.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T06.Oscars\bin\Debug\netcoreapp3.1\T06.Oscars.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T06.Oscars\bin\Debug\netcoreapp3.1\T06.Oscars.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T06.Oscars\bin\Debug\netcoreapp3.1\T06.Oscars.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T06.Oscars\bin\Debug\netcoreapp3.1\T06.Oscars.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T06.Oscars\bin\Debug\netcoreapp3.1\T06.Oscars.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T06.Oscars\obj\Debug\netcoreapp3.1\T06.Oscars.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T06.Oscars\obj\Debug\netcoreapp3.1\T06.Oscars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T06.Oscars\obj\Debug\netcoreapp3.1\T06.Oscars.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T06.Oscars\obj\Debug\netcoreapp3.1\T06.Oscars.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T06.Oscars\obj\Debug\netcoreapp3.1\T06.Oscars.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T06.Oscars\obj\Debug\netcoreapp3.1\T06.Oscars.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T06.Oscars\obj\Debug\netcoreapp3.1\T06.Oscars.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T06.Oscars\obj\Debug\netcoreapp3.1\T06.Oscars.genruntimeconfig.cache

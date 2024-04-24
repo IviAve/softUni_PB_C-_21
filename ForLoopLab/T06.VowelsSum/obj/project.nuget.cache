@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "D/QIE8tvF0rzOrMnSH5EDKLrr4jCsBxjBuIFWMTsV32VWLxHK0DSO0MWjYS6SAoTYUokI+vqvh7cHh82mFt02w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\repos\\SoftUniNovember\\CondStatNovExs\\ForLoopLab\\T06.VowelsSum\\T06.VowelsSum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

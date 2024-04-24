@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\TimeExamProba\bin\Debug\netcoreapp3.1\TimeExamProba.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\TimeExamProba\bin\Debug\netcoreapp3.1\TimeExamProba.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\TimeExamProba\bin\Debug\netcoreapp3.1\TimeExamProba.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\TimeExamProba\bin\Debug\netcoreapp3.1\TimeExamProba.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\TimeExamProba\bin\Debug\netcoreapp3.1\TimeExamProba.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\TimeExamProba\bin\Debug\netcoreapp3.1\TimeExamProba.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\TimeExamProba\obj\Debug\netcoreapp3.1\TimeExamProba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\TimeExamProba\obj\Debug\netcoreapp3.1\TimeExamProba.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\TimeExamProba\obj\Debug\netcoreapp3.1\TimeExamProba.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\TimeExamProba\obj\Debug\netcoreapp3.1\TimeExamProba.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\TimeExamProba\obj\Debug\netcoreapp3.1\TimeExamProba.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\TimeExamProba\obj\Debug\netcoreapp3.1\TimeExamProba.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\TimeExamProba\obj\Debug\netcoreapp3.1\TimeExamProba.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\TimeExamProba\obj\Debug\netcoreapp3.1\TimeExamProba.csproj.AssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\T06.OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\T06.OperationsBetweenNumbers.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\T06.OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\T06.OperationsBetweenNumbers.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\T06.OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\T06.OperationsBetweenNumbers.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\T06.OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\T06.OperationsBetweenNumbers.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\T06.OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\T06.OperationsBetweenNumbers.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\T06.OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\T06.OperationsBetweenNumbers.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\T06.OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\T06.OperationsBetweenNumbers.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\T06.OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\T06.OperationsBetweenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\T06.OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\T06.OperationsBetweenNumbers.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\T06.OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\T06.OperationsBetweenNumbers.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\T06.OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\T06.OperationsBetweenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\T06.OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\T06.OperationsBetweenNumbers.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\T06.OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\T06.OperationsBetweenNumbers.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\T06.OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\T06.OperationsBetweenNumbers.genruntimeconfig.cache

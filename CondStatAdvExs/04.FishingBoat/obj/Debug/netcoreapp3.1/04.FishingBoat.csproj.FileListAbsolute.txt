@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\04.FishingBoat\bin\Debug\netcoreapp3.1\04.FishingBoat.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\04.FishingBoat\bin\Debug\netcoreapp3.1\04.FishingBoat.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\04.FishingBoat\bin\Debug\netcoreapp3.1\04.FishingBoat.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\04.FishingBoat\bin\Debug\netcoreapp3.1\04.FishingBoat.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\04.FishingBoat\bin\Debug\netcoreapp3.1\04.FishingBoat.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\04.FishingBoat\bin\Debug\netcoreapp3.1\04.FishingBoat.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\04.FishingBoat\obj\Debug\netcoreapp3.1\04.FishingBoat.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\04.FishingBoat\obj\Debug\netcoreapp3.1\04.FishingBoat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\04.FishingBoat\obj\Debug\netcoreapp3.1\04.FishingBoat.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\04.FishingBoat\obj\Debug\netcoreapp3.1\04.FishingBoat.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\04.FishingBoat\obj\Debug\netcoreapp3.1\04.FishingBoat.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\04.FishingBoat\obj\Debug\netcoreapp3.1\04.FishingBoat.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\04.FishingBoat\obj\Debug\netcoreapp3.1\04.FishingBoat.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\04.FishingBoat\obj\Debug\netcoreapp3.1\04.FishingBoat.genruntimeconfig.cache

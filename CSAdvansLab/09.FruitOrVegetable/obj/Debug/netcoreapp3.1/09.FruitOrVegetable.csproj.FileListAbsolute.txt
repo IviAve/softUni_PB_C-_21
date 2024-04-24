@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\09.FruitOrVegetable\bin\Debug\netcoreapp3.1\09.FruitOrVegetable.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\09.FruitOrVegetable\bin\Debug\netcoreapp3.1\09.FruitOrVegetable.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\09.FruitOrVegetable\bin\Debug\netcoreapp3.1\09.FruitOrVegetable.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\09.FruitOrVegetable\bin\Debug\netcoreapp3.1\09.FruitOrVegetable.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\09.FruitOrVegetable\bin\Debug\netcoreapp3.1\09.FruitOrVegetable.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\09.FruitOrVegetable\bin\Debug\netcoreapp3.1\09.FruitOrVegetable.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\09.FruitOrVegetable\obj\Debug\netcoreapp3.1\09.FruitOrVegetable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\09.FruitOrVegetable\obj\Debug\netcoreapp3.1\09.FruitOrVegetable.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\09.FruitOrVegetable\obj\Debug\netcoreapp3.1\09.FruitOrVegetable.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\09.FruitOrVegetable\obj\Debug\netcoreapp3.1\09.FruitOrVegetable.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\09.FruitOrVegetable\obj\Debug\netcoreapp3.1\09.FruitOrVegetable.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\09.FruitOrVegetable\obj\Debug\netcoreapp3.1\09.FruitOrVegetable.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\09.FruitOrVegetable\obj\Debug\netcoreapp3.1\09.FruitOrVegetable.genruntimeconfig.cache

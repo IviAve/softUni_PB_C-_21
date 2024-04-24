@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\04.PersonalTitles\bin\Debug\netcoreapp3.1\04.PersonalTitles.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\04.PersonalTitles\bin\Debug\netcoreapp3.1\04.PersonalTitles.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\04.PersonalTitles\bin\Debug\netcoreapp3.1\04.PersonalTitles.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\04.PersonalTitles\bin\Debug\netcoreapp3.1\04.PersonalTitles.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\04.PersonalTitles\bin\Debug\netcoreapp3.1\04.PersonalTitles.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\04.PersonalTitles\bin\Debug\netcoreapp3.1\04.PersonalTitles.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\04.PersonalTitles\obj\Debug\netcoreapp3.1\04.PersonalTitles.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\04.PersonalTitles\obj\Debug\netcoreapp3.1\04.PersonalTitles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\04.PersonalTitles\obj\Debug\netcoreapp3.1\04.PersonalTitles.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\04.PersonalTitles\obj\Debug\netcoreapp3.1\04.PersonalTitles.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\04.PersonalTitles\obj\Debug\netcoreapp3.1\04.PersonalTitles.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\04.PersonalTitles\obj\Debug\netcoreapp3.1\04.PersonalTitles.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\04.PersonalTitles\obj\Debug\netcoreapp3.1\04.PersonalTitles.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CSAdvansLab\04.PersonalTitles\obj\Debug\netcoreapp3.1\04.PersonalTitles.genruntimeconfig.cache

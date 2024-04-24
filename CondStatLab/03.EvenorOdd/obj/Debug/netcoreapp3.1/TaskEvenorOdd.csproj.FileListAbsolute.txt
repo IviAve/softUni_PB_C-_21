@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\TaskEvenorOdd\obj\Debug\netcoreapp3.1\TaskEvenorOdd.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\TaskEvenorOdd\obj\Debug\netcoreapp3.1\TaskEvenorOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\TaskEvenorOdd\obj\Debug\netcoreapp3.1\TaskEvenorOdd.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\TaskEvenorOdd\obj\Debug\netcoreapp3.1\TaskEvenorOdd.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\TaskEvenorOdd\obj\Debug\netcoreapp3.1\TaskEvenorOdd.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\TaskEvenorOdd\bin\Debug\netcoreapp3.1\TaskEvenorOdd.exe
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\TaskEvenorOdd\bin\Debug\netcoreapp3.1\TaskEvenorOdd.deps.json
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\TaskEvenorOdd\bin\Debug\netcoreapp3.1\TaskEvenorOdd.runtimeconfig.json
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\TaskEvenorOdd\bin\Debug\netcoreapp3.1\TaskEvenorOdd.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\TaskEvenorOdd\bin\Debug\netcoreapp3.1\TaskEvenorOdd.dll
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\TaskEvenorOdd\bin\Debug\netcoreapp3.1\TaskEvenorOdd.pdb
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\TaskEvenorOdd\obj\Debug\netcoreapp3.1\TaskEvenorOdd.dll
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\TaskEvenorOdd\obj\Debug\netcoreapp3.1\TaskEvenorOdd.pdb
+C:\Users\Lenovo\source\repos\softuni10,21\CondStatLabExs\TaskEvenorOdd\obj\Debug\netcoreapp3.1\TaskEvenorOdd.genruntimeconfig.cache

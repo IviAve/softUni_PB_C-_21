@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\04.VegetableMarket\bin\Debug\netcoreapp3.1\04.VegetableMarket.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\04.VegetableMarket\bin\Debug\netcoreapp3.1\04.VegetableMarket.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\04.VegetableMarket\bin\Debug\netcoreapp3.1\04.VegetableMarket.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\04.VegetableMarket\bin\Debug\netcoreapp3.1\04.VegetableMarket.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\04.VegetableMarket\bin\Debug\netcoreapp3.1\04.VegetableMarket.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\04.VegetableMarket\bin\Debug\netcoreapp3.1\04.VegetableMarket.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\04.VegetableMarket\obj\Debug\netcoreapp3.1\04.VegetableMarket.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\04.VegetableMarket\obj\Debug\netcoreapp3.1\04.VegetableMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\04.VegetableMarket\obj\Debug\netcoreapp3.1\04.VegetableMarket.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\04.VegetableMarket\obj\Debug\netcoreapp3.1\04.VegetableMarket.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\04.VegetableMarket\obj\Debug\netcoreapp3.1\04.VegetableMarket.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\04.VegetableMarket\obj\Debug\netcoreapp3.1\04.VegetableMarket.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\04.VegetableMarket\obj\Debug\netcoreapp3.1\04.VegetableMarket.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\04.VegetableMarket\obj\Debug\netcoreapp3.1\04.VegetableMarket.genruntimeconfig.cache

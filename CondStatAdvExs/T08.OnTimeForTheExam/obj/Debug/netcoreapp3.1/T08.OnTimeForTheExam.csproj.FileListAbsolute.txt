@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\T08.OnTimeForTheExam\bin\Debug\netcoreapp3.1\T08.OnTimeForTheExam.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\T08.OnTimeForTheExam\bin\Debug\netcoreapp3.1\T08.OnTimeForTheExam.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\T08.OnTimeForTheExam\bin\Debug\netcoreapp3.1\T08.OnTimeForTheExam.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\T08.OnTimeForTheExam\bin\Debug\netcoreapp3.1\T08.OnTimeForTheExam.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\T08.OnTimeForTheExam\bin\Debug\netcoreapp3.1\T08.OnTimeForTheExam.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\T08.OnTimeForTheExam\bin\Debug\netcoreapp3.1\T08.OnTimeForTheExam.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\T08.OnTimeForTheExam\obj\Debug\netcoreapp3.1\T08.OnTimeForTheExam.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\T08.OnTimeForTheExam\obj\Debug\netcoreapp3.1\T08.OnTimeForTheExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\T08.OnTimeForTheExam\obj\Debug\netcoreapp3.1\T08.OnTimeForTheExam.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\T08.OnTimeForTheExam\obj\Debug\netcoreapp3.1\T08.OnTimeForTheExam.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\T08.OnTimeForTheExam\obj\Debug\netcoreapp3.1\T08.OnTimeForTheExam.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\T08.OnTimeForTheExam\obj\Debug\netcoreapp3.1\T08.OnTimeForTheExam.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\T08.OnTimeForTheExam\obj\Debug\netcoreapp3.1\T08.OnTimeForTheExam.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\CondStatAdvExs\T08.OnTimeForTheExam\obj\Debug\netcoreapp3.1\T08.OnTimeForTheExam.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T07.TrekkingMania\bin\Debug\netcoreapp3.1\T07.TrekkingMania.exe
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T07.TrekkingMania\bin\Debug\netcoreapp3.1\T07.TrekkingMania.deps.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T07.TrekkingMania\bin\Debug\netcoreapp3.1\T07.TrekkingMania.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T07.TrekkingMania\bin\Debug\netcoreapp3.1\T07.TrekkingMania.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T07.TrekkingMania\bin\Debug\netcoreapp3.1\T07.TrekkingMania.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T07.TrekkingMania\bin\Debug\netcoreapp3.1\T07.TrekkingMania.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T07.TrekkingMania\obj\Debug\netcoreapp3.1\T07.TrekkingMania.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T07.TrekkingMania\obj\Debug\netcoreapp3.1\T07.TrekkingMania.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T07.TrekkingMania\obj\Debug\netcoreapp3.1\T07.TrekkingMania.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T07.TrekkingMania\obj\Debug\netcoreapp3.1\T07.TrekkingMania.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T07.TrekkingMania\obj\Debug\netcoreapp3.1\T07.TrekkingMania.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T07.TrekkingMania\obj\Debug\netcoreapp3.1\T07.TrekkingMania.dll
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T07.TrekkingMania\obj\Debug\netcoreapp3.1\T07.TrekkingMania.pdb
+C:\Users\Lenovo\source\repos\SoftUniNovember\CondStatNovExs\ForLoopNovExs\T07.TrekkingMania\obj\Debug\netcoreapp3.1\T07.TrekkingMania.genruntimeconfig.cache
